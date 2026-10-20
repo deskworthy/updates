@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "Internal build.",
-  "pub_date": "2026-10-20T14:23:31.629Z",
+  "version": "0.1.1",
+  "notes": "A small release to confirm that updating works. Nothing about capturing, markup or history\nhas changed.\n\n- **Updating.** Copies of 0.1.0 that are set to the beta channel are offered this version.",
+  "pub_date": "2026-10-20T14:32:36.913Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.0/Snipkeep_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVJOaHIvc2g2QWdMcE02L1g1Q09FVnU0bHhVLys1K09XTzdHYnZWYW9mN2xKa1Z2R21PVFBiWkN1Z0xnZ1hndnBtV2dwYVR0VTJPbngwUVBiOXB1NFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA2MTYwCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wClB6S2VlQ0F0VmFLSUJzQ2hqa2MwRTlZWGlFbTVzTzlOb3VqcnZSOHBTV0s2Um81K0pCMHBMbDNCZGJlbTZSSXNXY01DTVBxTjRSV3hYV2pCbE5NYUR3PT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.1/Snipkeep_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZTZnhIaXRUYzVEbjJUUVFxZkZwTUI0a05nQlF6a2pkd1lvbXFHU0tNV2YwRVZHV28zb0pxNjZSa0R5eWpRZktMOThtN3FIZ0I4Zm45eDZFSVNUc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA2NzA2CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCkN2OExsbTV4Ukh6K1gyQzdsNjVXTy9YTytISTdvQVZ5NWppUHdrdERuOXJIQkVqZDIxL1h3L2hQQ0dZZUV4Sm9tQ1dRNTAzZlFPblYva2hTVXhnVURnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.0/Snipkeep_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVJOaHIvc2g2QWdMcE02L1g1Q09FVnU0bHhVLys1K09XTzdHYnZWYW9mN2xKa1Z2R21PVFBiWkN1Z0xnZ1hndnBtV2dwYVR0VTJPbngwUVBiOXB1NFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA2MTYwCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wClB6S2VlQ0F0VmFLSUJzQ2hqa2MwRTlZWGlFbTVzTzlOb3VqcnZSOHBTV0s2Um81K0pCMHBMbDNCZGJlbTZSSXNXY01DTVBxTjRSV3hYV2pCbE5NYUR3PT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.1/Snipkeep_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZTZnhIaXRUYzVEbjJUUVFxZkZwTUI0a05nQlF6a2pkd1lvbXFHU0tNV2YwRVZHV28zb0pxNjZSa0R5eWpRZktMOThtN3FIZ0I4Zm45eDZFSVNUc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTA2NzA2CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCkN2OExsbTV4Ukh6K1gyQzdsNjVXTy9YTytISTdvQVZ5NWppUHdrdERuOXJIQkVqZDIxL1h3L2hQQ0dZZUV4Sm9tQ1dRNTAzZlFPblYva2hTVXhnVURnPT0K"
     }
   }
 }
