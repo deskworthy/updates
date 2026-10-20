@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "The first DiskAtlas. See where the disk space went, in one picture, and get it back safely.\n\n- **A fast scan** of the whole disk, shown as a map you can explore.\n- **Safe clean-up:** nothing is removed until you have reviewed it, and what you remove\n  goes to the Trash.\n- **Duplicates,** found across what was scanned.\n- **Free to try:** without a licence DiskAtlas scans and shows everything, and removes up\n  to 5 items each time it opens.",
+  "pub_date": "2026-10-20T23:26:08.566Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v0.1.0/DiskAtlas_0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v0.1.0/DiskAtlas_0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+    }
+  }
+}
