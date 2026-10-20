@@ -1,15 +1,15 @@
 {
-  "version": "0.1.3",
-  "notes": "Makes updating work from here on.\n\n- **Updating, for real.** Version 0.1.2 was built without the mark that lets a copy update\n  itself, so it cannot. If you have 0.1.2, install this version from the download page once;\n  after that, new versions arrive by themselves.",
-  "pub_date": "2026-10-20T19:33:09.973Z",
+  "version": "0.1.4",
+  "notes": "Fixes from the first week of real use.\n\n- **Copying a marked-up shot works every time.** At some selection positions, Copy or Save\n  stopped with \"the marks could not be read\". The marks now always fit the shot.\n- **Escape always closes the capture,** even after an error.\n- **Everything you can click shows the pointer,** and Restore defaults in Shortcuts keeps to\n  one line.",
+  "pub_date": "2026-10-20T22:25:46.696Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.3/Snipkeep_0.1.3_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFaT0JxUUc2eThmSWF4WFNES3IzdmxJMnAyUGZZRWRodnFYVmIrQ215bHdJTTNMWW9ZOXJ4T25GTnBBOWJYMmdHZGFyWWFNUTJvSDRQU3pTOUtvdkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI0NzE4CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4zCmtRZk9PWldZdm82blgxc1M3VjlsSm50YmVWRSsvNVMrTXNxY0dMN0tNVjErWitlcEp4OHlmc0hIdDF4SUlKTGloMGR4bUVMZ29HWkdjRStyUkoxV0RBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.4/Snipkeep_0.1.4_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVF1NG1oM1U3ajUwNndtc2RiTFBqUTlqU0k0OWlqTUExall3K3prbGNZYW5sdUZEOUQ4OUxRbGRmUXE5STNxZldYOEZGSGFvb2lURkIrSlJBS0ZDdVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM1MDc5CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40CmpvMkg2eUZzNHo5TE9qYUl3K25ZeW9SYkxUMGlnNjhzNzJSM1ZzK3dESGxQRXJ0bUhJL1U5aW1KT2trZEY2ejFvWTMreTJZbUx3SjZ6SkdvYWJwRURBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.3/Snipkeep_0.1.3_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFaT0JxUUc2eThmSWF4WFNES3IzdmxJMnAyUGZZRWRodnFYVmIrQ215bHdJTTNMWW9ZOXJ4T25GTnBBOWJYMmdHZGFyWWFNUTJvSDRQU3pTOUtvdkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTI0NzE4CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4zCmtRZk9PWldZdm82blgxc1M3VjlsSm50YmVWRSsvNVMrTXNxY0dMN0tNVjErWitlcEp4OHlmc0hIdDF4SUlKTGloMGR4bUVMZ29HWkdjRStyUkoxV0RBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.4/Snipkeep_0.1.4_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVF1NG1oM1U3ajUwNndtc2RiTFBqUTlqU0k0OWlqTUExall3K3prbGNZYW5sdUZEOUQ4OUxRbGRmUXE5STNxZldYOEZGSGFvb2lURkIrSlJBS0ZDdVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM1MDc5CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40CmpvMkg2eUZzNHo5TE9qYUl3K25ZeW9SYkxUMGlnNjhzNzJSM1ZzK3dESGxQRXJ0bUhJL1U5aW1KT2trZEY2ejFvWTMreTJZbUx3SjZ6SkdvYWJwRURBPT0K"
     }
   }
 }

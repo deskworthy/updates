@@ -1,0 +1,15 @@
+{
+  "version": "0.1.4",
+  "notes": "Fixes from the first week of real use.\n\n- **Copying a marked-up shot works every time.** At some selection positions, Copy or Save\n  stopped with \"the marks could not be read\". The marks now always fit the shot.\n- **Escape always closes the capture,** even after an error.\n- **Everything you can click shows the pointer,** and Restore defaults in Shortcuts keeps to\n  one line.",
+  "pub_date": "2026-10-20T22:25:46.696Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.4/Snipkeep_0.1.4_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVF1NG1oM1U3ajUwNndtc2RiTFBqUTlqU0k0OWlqTUExall3K3prbGNZYW5sdUZEOUQ4OUxRbGRmUXE5STNxZldYOEZGSGFvb2lURkIrSlJBS0ZDdVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM1MDc5CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40CmpvMkg2eUZzNHo5TE9qYUl3K25ZeW9SYkxUMGlnNjhzNzJSM1ZzK3dESGxQRXJ0bUhJL1U5aW1KT2trZEY2ejFvWTMreTJZbUx3SjZ6SkdvYWJwRURBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v0.1.4/Snipkeep_0.1.4_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVF1NG1oM1U3ajUwNndtc2RiTFBqUTlqU0k0OWlqTUExall3K3prbGNZYW5sdUZEOUQ4OUxRbGRmUXE5STNxZldYOEZGSGFvb2lURkIrSlJBS0ZDdVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM1MDc5CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40CmpvMkg2eUZzNHo5TE9qYUl3K25ZeW9SYkxUMGlnNjhzNzJSM1ZzK3dESGxQRXJ0bUhJL1U5aW1KT2trZEY2ejFvWTMreTJZbUx3SjZ6SkdvYWJwRURBPT0K"
+    }
+  }
+}
