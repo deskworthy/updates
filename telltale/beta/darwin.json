@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "The first Telltale. See what your computer and every app on it are doing, now and over the\nlast 30 days.\n\n- **Every process counted under its app.** A browser is one row, not ninety helpers.\n- **Thirty days of history,** kept on this computer, so you can see when an app started\n  behaving unlike itself.\n- **A glance in the menu bar,** and the full view a click away.\n- **Try it for 7 days,** then a licence keeps it going.",
+  "pub_date": "2026-10-20T22:56:59.425Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v0.1.0/Telltale_0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWY3S0o4ZjF3SERCMXo0RXBnbGZYRXRCY3c2Rll3c2JFdDNxNTRtQnZ6eExaTHdpcDB1Y2plMjA5Z09tOGorUUVIODI0b2oyNkxnd1ZDYzVmeERha0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2OTU0CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCkx5WUhQSGUwOG4wL3dyS2xtektFR0ZMRlFQOEk1RDg0cGczNkpud0dBTjRudmJLM1UrM1dwbms3TkpBenc1dlR6TW00dEhVZ1pCbDliZlVQUk1pZkN3PT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v0.1.0/Telltale_0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWY3S0o4ZjF3SERCMXo0RXBnbGZYRXRCY3c2Rll3c2JFdDNxNTRtQnZ6eExaTHdpcDB1Y2plMjA5Z09tOGorUUVIODI0b2oyNkxnd1ZDYzVmeERha0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2OTU0CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCkx5WUhQSGUwOG4wL3dyS2xtektFR0ZMRlFQOEk1RDg0cGczNkpud0dBTjRudmJLM1UrM1dwbms3TkpBenc1dlR6TW00dEhVZ1pCbDliZlVQUk1pZkN3PT0K"
+    }
+  }
+}
