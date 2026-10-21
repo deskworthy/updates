@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "The first stable release, the version on sale at launch.\n\nSince the beta:\n\n- **Updates:** before a channel has its first version, Updates says so instead of \"The\n  update server did not answer\".",
+  "pub_date": "2026-10-21T10:54:43.447Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.0.0/Snipkeep_1.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.0.0/Snipkeep_1.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+    }
+  }
+}
