@@ -1,14 +1,14 @@
 {
-  "version": "0.1.0",
-  "notes": "The first Kempt. Keep a Mac in good shape: what uses the disk, what is safe to clear, what\napps really cost, and what the machine is doing now.\n\n- **Overview** of disk, memory and the Mac's health on one screen.\n- **Clean-up** of caches and leftovers on honest rules, reviewed before anything goes.\n- **Applications:** what each app really takes up, with its leftovers.\n- **Free to try:** without a licence Kempt checks and shows everything, and removes or\n  uninstalls up to 5 items each time it opens.",
-  "pub_date": "2026-10-20T23:20:05.808Z",
+  "version": "1.0.0",
+  "notes": "The first stable release, the version on sale at launch.\n\n### What it does\n\n- **Overview** of disk, memory and the Mac's health on one screen.\n- **Clean-up** of caches and leftovers on honest rules, reviewed before anything goes.\n- **Applications:** what each app really takes up, with its leftovers.\n- **Free to try:** without a licence Kempt checks and shows everything, and removes or\n  uninstalls up to 5 items each time it opens.\n\n### Since the beta\n\n- **macOS questions during a scan:** macOS asks, folder by folder, before Kempt reads\n  Documents, Desktop, Downloads or other apps' data, and the scan waits for each answer. The\n  welcome screen now says so, and if the count stops moving, Kempt says macOS may be asking.\n- **Limited mode is shown:** the title bar says \"Limited mode\" while Kempt runs without a\n  license, and opens the license screen.\n- **Updates:** before a channel has its first version, Updates says so instead of \"The\n  update server did not answer\".",
+  "pub_date": "2026-10-21T11:13:03.398Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v0.1.0/Kempt_0.1.0_universal.app.tar.gz",
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.0.0/Kempt_1.0.0_universal.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v0.1.0/Kempt_0.1.0_universal.app.tar.gz",
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.0.0/Kempt_1.0.0_universal.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
     }
   }
