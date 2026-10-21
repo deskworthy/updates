@@ -1,14 +1,14 @@
 {
-  "version": "0.1.0",
-  "notes": "The first DiskAtlas. See where the disk space went, in one picture, and get it back safely.\n\n- **A fast scan** of the whole disk, shown as a map you can explore.\n- **Safe clean-up:** nothing is removed until you have reviewed it, and what you remove\n  goes to the Trash.\n- **Duplicates,** found across what was scanned.\n- **Free to try:** without a licence DiskAtlas scans and shows everything, and removes up\n  to 5 items each time it opens.",
-  "pub_date": "2026-10-20T23:26:08.566Z",
+  "version": "1.0.0",
+  "notes": "The first stable release, the version on sale at launch.\n\n### What it does\n\n- **A fast scan** of the whole disk, shown as a map you can explore.\n- **Safe clean-up:** nothing is removed until you have reviewed it, and what you remove\n  goes to the Trash.\n- **Duplicates,** found across what was scanned.\n- **Free to try:** without a licence DiskAtlas scans and shows everything, and removes up\n  to 5 items each time it opens.\n\n### Since the beta\n\n- **Home folder scans are named right:** a scan of your home folder was titled with the\n  disk's name; it now carries the folder's.\n- **macOS questions during a scan:** the start screen no longer says a home folder scan\n  needs no permission. macOS asks before DiskAtlas reads Documents, Desktop or Downloads, and\n  if the count stops moving while it waits, DiskAtlas now says so.\n- **Limited mode is shown:** the title bar says \"Limited mode\" while DiskAtlas runs without\n  a license, and opens the license screen.\n- **Updates:** before a channel has its first version, Updates says so instead of \"The\n  update server did not answer\".",
+  "pub_date": "2026-10-21T11:19:27.920Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v0.1.0/DiskAtlas_0.1.0_universal.app.tar.gz",
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.0.0/DiskAtlas_1.0.0_universal.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v0.1.0/DiskAtlas_0.1.0_universal.app.tar.gz",
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.0.0/DiskAtlas_1.0.0_universal.app.tar.gz",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
     }
   }
