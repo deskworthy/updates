@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "The first Squish. Drop in images, get back small, correctly sized, correctly named copies.\n\n- **Presets you set once:** size, format, quality and name.\n- **Output sets:** several sizes or formats from one image in one go.\n- **A size budget** for a whole batch.\n- **Metadata on your terms:** keep or strip it per preset. Nothing is uploaded.\n- **Try it for 7 days,** then a licence keeps it going.",
-  "pub_date": "2026-10-20T23:33:25.968Z",
+  "version": "1.0.0",
+  "notes": "The first stable release, the version on sale at launch.\n\n### What it does\n\n- **Presets you set once:** size, format, quality and name.\n- **Output sets:** several sizes or formats from one image in one go.\n- **A size budget** for a whole batch.\n- **Metadata on your terms:** keep or strip it per preset. Nothing is uploaded.\n- **Try it for 7 days,** then a licence keeps it going.\n\n### Since the beta\n\n- **Screenshots work:** PNG screenshots from macOS 26 were refused as HDR because of the\n  colour tag macOS now writes into them. They are ordinary Display P3 images and now\n  compress like any other PNG. True HDR images are still refused, with a clear message.\n- **iPhone photos (HEIC):** a Display P3 HEIC was refused with \"macOS changed this HEIC's\n  color profile\" even though the colour was the same. It now opens, keeping its own profile.\n- **Saved copies are ordinary files:** they were readable only by your account, which got\n  in the way of sharing them; they now have the permissions any saved file has.\n- **Updates:** before a channel has its first version, Updates says so instead of \"The\n  update server did not answer\".",
+  "pub_date": "2026-10-21T11:32:35.905Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/squish-v0.1.0/Squish_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/squish-v1.0.0/Squish_1.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVUzL2lJNVliMUpYS0dDaDhuaTlZQ1dsb1Y3VVlhaUs5WlE3MkRJZzZzMXU1L2JBa0syODFWRzdQMGVHcHlBV09OY1kwTnRyTlFYM3BZWU9PdG0xVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxODY1CWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wClNST3VDOUMrUXFQekZobHFzaDFBd1N6VC91aVhCZ0FYQWp0ZkpxMCt5SEMvV3o5TXlIUk83Vm1Salg0SDNZY2dpM0hEN3BJeFM5RHpYcURJM0hCNkJnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/squish-v0.1.0/Squish_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/squish-v1.0.0/Squish_1.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVUzL2lJNVliMUpYS0dDaDhuaTlZQ1dsb1Y3VVlhaUs5WlE3MkRJZzZzMXU1L2JBa0syODFWRzdQMGVHcHlBV09OY1kwTnRyTlFYM3BZWU9PdG0xVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgxODY1CWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wClNST3VDOUMrUXFQekZobHFzaDFBd1N6VC91aVhCZ0FYQWp0ZkpxMCt5SEMvV3o5TXlIUk83Vm1Salg0SDNZY2dpM0hEN3BJeFM5RHpYcURJM0hCNkJnPT0K"
     }
   }
 }
