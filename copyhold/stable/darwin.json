@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "The first stable release, the version on sale at launch.\n\n### What it does\n\n- **The shelf.** Control-Command-V on macOS, Control-Alt-V on Windows, over whatever you\n  are using. Type to search, Enter to paste, Escape to forget it was there. The same two\n  keys and a number pastes one of the last nine without looking.\n- **Every kind of clip.** Text, rich text, links, images, files, colours and code, each\n  shown as the thing it is rather than as a line of text. A screenshot is searchable by\n  the words inside it.\n- **Search that reaches the whole history**, not the last few. Filter by kind, by the app\n  a clip came from, or by a collection you made.\n- **Favourites and collections**, for the clips you reach for every day.\n- **Passwords are never kept.** A copy from a password manager, or anything that looks\n  like a secret, is masked and expires. Apps you name are never recorded at all, and\n  recording pauses whenever you want it to.\n- **Nothing leaves the machine.** No account, no sync, no upload path in the app at all.\n\n### Since the beta\n\n- **Opening CopyHold shows it:** opened from Applications, Launchpad or Spotlight, CopyHold\n  now shows its window (or the license screen) instead of only an icon in the menu bar. At\n  login it still starts quietly in the menu bar.\n- **Settings button:** the window now has Settings in its title bar, like every other\n  Deskworthy app, beside the update button. Command-comma still works.\n- **Copied files:** Open and Show in Finder now work, and a long path wraps inside the\n  panel instead of running over the text beside it.\n- **Updates:** before a channel has its first version, Updates says so instead of \"The\n  update server did not answer\".",
+  "pub_date": "2026-10-21T11:07:09.250Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/copyhold-v1.0.0/CopyHold_1.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/copyhold-v1.0.0/CopyHold_1.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVoWDdNTDNWS3ZWem5kYUg2RjF0dTRkcnhJL1NNc3k2c2lwOFEySW11dllPRHNpOThrUGZ1M3Y5SzVGK3RsQm8yR3MxNUJJMjMxeTJtS2l2TUg5QmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM3NDkyCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCi9ERDV6MnNLSzBtQm40RjNqU3pLTmhqZzFYbEJXSXl1NmhqanRUVmJpbTVRV1A2NThENnpFRGRETXlsa0NiUW05Q1E5MTdvcW1MaEQ5WFhxYVFTRUJBPT0K"
+    }
+  }
+}
