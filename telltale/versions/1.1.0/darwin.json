@@ -1,0 +1,15 @@
+{
+  "version": "1.1.0",
+  "notes": "- The Disk tab shows each drive's space, its last 30 days, the apps that wrote the most and the drive's health.\n- Free up space opens DiskAtlas or Kempt.\n- An alert when a disk falls under 10% available, and again under 5%.\n- The menu bar glance shows each drive's space.\n- The menu bar popover now opens over full-screen apps.\n- Tabs fit in a narrow window.\n- A new license screen: what the app does beside your key, a free trial or Buy.\n- Settings, Updates: \"See what is new\" opens the release notes.",
+  "pub_date": "2026-10-22T12:14:04.547Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.0/Telltale_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYxdTc4OEowY2toWjFMaG13LzI3WFlPeXdOVER6THgwL0FzVmhyVVlTWFNKVW03M2c5a2MxclcybE5lcnhrTVVlVFpTdG13T3RWN3BBK01ZcktzdlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxMTUxCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wClVWZ2M0bFl3Z2NFZGlCZHNyek83OE1MMzRyQXFiSHNhTEhFT1RXbWRzWjdmMG9JY1hJQ3Bzb1BJMWJlSnhRTzB1bkhIUERGdzRaVkg2UkM5em1lOUFRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.0/Telltale_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYxdTc4OEowY2toWjFMaG13LzI3WFlPeXdOVER6THgwL0FzVmhyVVlTWFNKVW03M2c5a2MxclcybE5lcnhrTVVlVFpTdG13T3RWN3BBK01ZcktzdlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxMTUxCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wClVWZ2M0bFl3Z2NFZGlCZHNyek83OE1MMzRyQXFiSHNhTEhFT1RXbWRzWjdmMG9JY1hJQ3Bzb1BJMWJlSnhRTzB1bkhIUERGdzRaVkg2UkM5em1lOUFRPT0K"
+    }
+  }
+}

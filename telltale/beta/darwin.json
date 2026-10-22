@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
-  "notes": "The first stable release, the version on sale at launch.\n\n### What it does\n\n- **Every process counted under its app.** A browser is one row, not ninety helpers.\n- **Thirty days of history,** kept on this computer, so you can see when an app started\n  behaving unlike itself.\n- **A glance in the menu bar,** and the full view a click away.\n- **Try it for 7 days,** then a licence keeps it going.\n\n### Since the beta\n\n- **Updates:** before a channel has its first version, Updates says so instead of \"The\n  update server did not answer\".",
-  "pub_date": "2026-10-21T11:00:29.899Z",
+  "version": "1.1.0",
+  "notes": "- The Disk tab shows each drive's space, its last 30 days, the apps that wrote the most and the drive's health.\n- Free up space opens DiskAtlas or Kempt.\n- An alert when a disk falls under 10% available, and again under 5%.\n- The menu bar glance shows each drive's space.\n- The menu bar popover now opens over full-screen apps.\n- Tabs fit in a narrow window.\n- A new license screen: what the app does beside your key, a free trial or Buy.\n- Settings, Updates: \"See what is new\" opens the release notes.",
+  "pub_date": "2026-10-22T12:14:04.547Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.0.0/Telltale_1.0.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVlwQTBOQ05nMkF3R2FabURFcm5ZQ3YzZWpSNjVIeXZEaFlZazBRUnJ4N3ROZCt1VyszL1Z4WFNKSUVsazR6c2ZlcUM5eFF2cDlKYTNKNFlvQldBWmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgwMzc2CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCm5JVWZScGxNWXU4MzdZNFFuOFBvdnB3M3lvaytyZVpJNmRkcDRsQWsrVDVQaVRZb1BCOGFWa3dVUU03VUhFTW10MUxIMTNxN2hMdktCcGE4ODBlTENBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.0/Telltale_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYxdTc4OEowY2toWjFMaG13LzI3WFlPeXdOVER6THgwL0FzVmhyVVlTWFNKVW03M2c5a2MxclcybE5lcnhrTVVlVFpTdG13T3RWN3BBK01ZcktzdlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxMTUxCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wClVWZ2M0bFl3Z2NFZGlCZHNyek83OE1MMzRyQXFiSHNhTEhFT1RXbWRzWjdmMG9JY1hJQ3Bzb1BJMWJlSnhRTzB1bkhIUERGdzRaVkg2UkM5em1lOUFRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.0.0/Telltale_1.0.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVlwQTBOQ05nMkF3R2FabURFcm5ZQ3YzZWpSNjVIeXZEaFlZazBRUnJ4N3ROZCt1VyszL1Z4WFNKSUVsazR6c2ZlcUM5eFF2cDlKYTNKNFlvQldBWmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTgwMzc2CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4wCm5JVWZScGxNWXU4MzdZNFFuOFBvdnB3M3lvaytyZVpJNmRkcDRsQWsrVDVQaVRZb1BCOGFWa3dVUU03VUhFTW10MUxIMTNxN2hMdktCcGE4ODBlTENBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.0/Telltale_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYxdTc4OEowY2toWjFMaG13LzI3WFlPeXdOVER6THgwL0FzVmhyVVlTWFNKVW03M2c5a2MxclcybE5lcnhrTVVlVFpTdG13T3RWN3BBK01ZcktzdlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxMTUxCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wClVWZ2M0bFl3Z2NFZGlCZHNyek83OE1MMzRyQXFiSHNhTEhFT1RXbWRzWjdmMG9JY1hJQ3Bzb1BJMWJlSnhRTzB1bkhIUERGdzRaVkg2UkM5em1lOUFRPT0K"
     }
   }
 }
