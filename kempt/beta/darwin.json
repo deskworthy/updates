@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "Cleaning up is more yours to decide, and Kempt says more about what it found.\n\n- **Your own files can be chosen.** Add them from the details panel in Space. They are\n  still never suggested or ticked for you. The review shows them in a group of their own and\n  asks you to confirm before they go to the Trash. Folders macOS keeps, such as Documents or\n  Pictures, are never removed whole; what is inside them can be.\n- **Right-click anything** in Space to add it to the cleanup, show it in Finder, or ignore\n  it in suggestions.\n- **More to add in the review:** dependencies of projects you have not touched for 90 days,\n  worktrees with no work in progress, and local AI models, each a switch that starts off.\n- **Worktrees anywhere:** a git worktree made by hand or by any tool is now checked with git\n  like the ones AI coding tools make, and offered when nothing in it is unfinished.\n- **Folders that could not be read are explained.** Most are closed to every app by macOS,\n  which Full Disk Access does not change. The banner now says how many of each kind, lists\n  them on request, and only points to Settings when access would help.\n- **Updates:** a copy of Kempt that runs outside Applications now says to move it there,\n  instead of failing to update. Release notes show their headings and lists properly.",
-  "pub_date": "2026-10-21T21:24:38.304Z",
+  "version": "1.2.0",
+  "notes": "- Build folders (target, build, dist) beside their project file are offered as build output.\n- AI worktrees are found at any depth, and empty folders are hidden.\n- Picking the room you are in leaves any list opened inside it.\n- The menu bar popover now opens over full-screen apps.\n- A new license screen: what the app does beside your key, limited mode or Buy.\n- Settings, Updates: \"See what is new\" opens the release notes.",
+  "pub_date": "2026-10-22T12:06:58.231Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.1.0/Kempt_1.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVVT2JyMGpBQ2FPbzROZWVtTmtNZlR5WFJPWjNtWFZtazJWT0FGTE5pN2NIRDZtWCtDa2dkbjVDZXFZc0Z5TzRXTlU2YThnTjlTNVlsVFkyaTR2U3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE3ODI3CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCk4vWkh3MW9WWWp1VUV2NWVTS09oSUE2VXNGMjE0K3dLWHBnL1YxQWRFaWFpNUwrRCtnMFNwK2pBMm1Eek5XeWVadVFMRDRSMkN0RlN4S1U2WXpDeUR3PT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.2.0/Kempt_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNzZ2xKZXM5M05xOGhDR3NqZ2xiejV5WS9ybG81d09qMFYrb0NGdTZDYk5LTURSTzRaNWY4ME8vbFFRbURHaTRxbW1oZWZVK1hPbWFGSEJEc2toalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwNzQ1CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClphRzBpK1hSUEp0S255NmU5aHVtaEVTbmZZTGxONGZrODJQSlo4K1BSY2tCOUZWM1BsYW8zNmJuTWtMM0s4MnhXUnNxR3h6ZlE5eEtnNFh4TWR5RkNnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.1.0/Kempt_1.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVVT2JyMGpBQ2FPbzROZWVtTmtNZlR5WFJPWjNtWFZtazJWT0FGTE5pN2NIRDZtWCtDa2dkbjVDZXFZc0Z5TzRXTlU2YThnTjlTNVlsVFkyaTR2U3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjE3ODI3CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCk4vWkh3MW9WWWp1VUV2NWVTS09oSUE2VXNGMjE0K3dLWHBnL1YxQWRFaWFpNUwrRCtnMFNwK2pBMm1Eek5XeWVadVFMRDRSMkN0RlN4S1U2WXpDeUR3PT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.2.0/Kempt_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNzZ2xKZXM5M05xOGhDR3NqZ2xiejV5WS9ybG81d09qMFYrb0NGdTZDYk5LTURSTzRaNWY4ME8vbFFRbURHaTRxbW1oZWZVK1hPbWFGSEJEc2toalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwNzQ1CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClphRzBpK1hSUEp0S255NmU5aHVtaEVTbmZZTGxONGZrODJQSlo4K1BSY2tCOUZWM1BsYW8zNmJuTWtMM0s4MnhXUnNxR3h6ZlE5eEtnNFh4TWR5RkNnPT0K"
     }
   }
 }

@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "notes": "- Build folders (target, build, dist) beside their project file are offered as build output.\n- AI worktrees are found at any depth, and empty folders are hidden.\n- Picking the room you are in leaves any list opened inside it.\n- The menu bar popover now opens over full-screen apps.\n- A new license screen: what the app does beside your key, limited mode or Buy.\n- Settings, Updates: \"See what is new\" opens the release notes.",
+  "pub_date": "2026-10-22T12:06:58.231Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.2.0/Kempt_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNzZ2xKZXM5M05xOGhDR3NqZ2xiejV5WS9ybG81d09qMFYrb0NGdTZDYk5LTURSTzRaNWY4ME8vbFFRbURHaTRxbW1oZWZVK1hPbWFGSEJEc2toalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwNzQ1CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClphRzBpK1hSUEp0S255NmU5aHVtaEVTbmZZTGxONGZrODJQSlo4K1BSY2tCOUZWM1BsYW8zNmJuTWtMM0s4MnhXUnNxR3h6ZlE5eEtnNFh4TWR5RkNnPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v1.2.0/Kempt_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNzZ2xKZXM5M05xOGhDR3NqZ2xiejV5WS9ybG81d09qMFYrb0NGdTZDYk5LTURSTzRaNWY4ME8vbFFRbURHaTRxbW1oZWZVK1hPbWFGSEJEc2toalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwNzQ1CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClphRzBpK1hSUEp0S255NmU5aHVtaEVTbmZZTGxONGZrODJQSlo4K1BSY2tCOUZWM1BsYW8zNmJuTWtMM0s4MnhXUnNxR3h6ZlE5eEtnNFh4TWR5RkNnPT0K"
+    }
+  }
+}
