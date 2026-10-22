@@ -1,0 +1,15 @@
+{
+  "version": "1.2.1",
+  "notes": "- The license screen shows what the app does in motion, drawn in code, with the key and Buy centred beside it.\n- On a large display both halves keep their size and stay together in the middle.\n- \"Buy a license\" stays on one line.",
+  "pub_date": "2026-10-22T17:51:36.349Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.2.1/DiskAtlas_1.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFRUHFmb2N6RmZNN3JycU1HTFZ6NVFsTFJ1dkFaVkhCcTJmRXJLcGNZQ1kvRGNZNW1ia1NESUpQaGxFNDI4Vk9ZR0ZjVi9mT2V3dFRpejFpTktrU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkxNDEwCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIuMQpXSkxsRDJXSFpLN0tmdEdVbXlRdFRHSzVNSHFNb1ZKYkZ3L01TcmhNZUhoejJEUW50UkpCdzBlSDdsSXhadHBWUTI1SFhZdVJpeSsreEErVk9vb0pEUT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.2.1/DiskAtlas_1.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFRUHFmb2N6RmZNN3JycU1HTFZ6NVFsTFJ1dkFaVkhCcTJmRXJLcGNZQ1kvRGNZNW1ia1NESUpQaGxFNDI4Vk9ZR0ZjVi9mT2V3dFRpejFpTktrU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkxNDEwCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIuMQpXSkxsRDJXSFpLN0tmdEdVbXlRdFRHSzVNSHFNb1ZKYkZ3L01TcmhNZUhoejJEUW50UkpCdzBlSDdsSXhadHBWUTI1SFhZdVJpeSsreEErVk9vb0pEUT09Cg=="
+    }
+  }
+}

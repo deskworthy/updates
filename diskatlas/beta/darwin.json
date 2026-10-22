@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
-  "notes": "- Build folders (target, build, dist) beside their project file are offered as build output.\n- The AI worktrees quick win finds worktrees at any depth, and hides empty folders.\n- Explore in the top bar always goes back to the map.\n- The after-scan card no longer touches the map below it.\n- The menu bar popover now opens over full-screen apps.\n- A new license screen: what the app does beside your key, limited mode or Buy.\n- Settings, Updates: \"See what is new\" opens the release notes.",
-  "pub_date": "2026-10-22T12:00:07.340Z",
+  "version": "1.2.1",
+  "notes": "- The license screen shows what the app does in motion, drawn in code, with the key and Buy centred beside it.\n- On a large display both halves keep their size and stay together in the middle.\n- \"Buy a license\" stays on one line.",
+  "pub_date": "2026-10-22T17:51:36.349Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.2.0/DiskAtlas_1.2.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVRVUTNwOCsxeldUK1A3cVpuVXRHTFlwRmJuRFIxWDd3VU1mNU14bTZidEtWL2dCUWhjRlVNMXhqRzg5UFF2MkIyLzVTZ2lhVVVpcWZHTytDWTI0UlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwMzAxCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIuMApvL1lkTmpCTGNvcVNyQWh2NVMvT3FBNk0wRFhlUER1OW1JKzBEWjJqNkh5Ynhmdjc2NkJHeks0aitKTmVSWkVvN2s1ZHpiUE95NWxEUjEwMmMxYk1EUT09Cg=="
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.2.1/DiskAtlas_1.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFRUHFmb2N6RmZNN3JycU1HTFZ6NVFsTFJ1dkFaVkhCcTJmRXJLcGNZQ1kvRGNZNW1ia1NESUpQaGxFNDI4Vk9ZR0ZjVi9mT2V3dFRpejFpTktrU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkxNDEwCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIuMQpXSkxsRDJXSFpLN0tmdEdVbXlRdFRHSzVNSHFNb1ZKYkZ3L01TcmhNZUhoejJEUW50UkpCdzBlSDdsSXhadHBWUTI1SFhZdVJpeSsreEErVk9vb0pEUT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.2.0/DiskAtlas_1.2.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVRVUTNwOCsxeldUK1A3cVpuVXRHTFlwRmJuRFIxWDd3VU1mNU14bTZidEtWL2dCUWhjRlVNMXhqRzg5UFF2MkIyLzVTZ2lhVVVpcWZHTytDWTI0UlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwMzAxCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIuMApvL1lkTmpCTGNvcVNyQWh2NVMvT3FBNk0wRFhlUER1OW1JKzBEWjJqNkh5Ynhmdjc2NkJHeks0aitKTmVSWkVvN2s1ZHpiUE95NWxEUjEwMmMxYk1EUT09Cg=="
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v1.2.1/DiskAtlas_1.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFRUHFmb2N6RmZNN3JycU1HTFZ6NVFsTFJ1dkFaVkhCcTJmRXJLcGNZQ1kvRGNZNW1ia1NESUpQaGxFNDI4Vk9ZR0ZjVi9mT2V3dFRpejFpTktrU0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkxNDEwCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjIuMQpXSkxsRDJXSFpLN0tmdEdVbXlRdFRHSzVNSHFNb1ZKYkZ3L01TcmhNZUhoejJEUW50UkpCdzBlSDdsSXhadHBWUTI1SFhZdVJpeSsreEErVk9vb0pEUT09Cg=="
     }
   }
 }
