@@ -1,0 +1,15 @@
+{
+  "version": "1.1.1",
+  "notes": "- The license screen shows what the app does in motion, drawn in code, with the key and Buy centred beside it.\n- On a large display both halves keep their size and stay together in the middle.\n- \"Buy a license\" stays on one line.",
+  "pub_date": "2026-10-22T18:03:36.320Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.1/Telltale_1.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVQyOGZtalMwdnRobjlIM2ZsMWE5U0U5NHM4d0pNYXhETXNRZFNtWU9GU2VjTkRXSkNONXhXQmVoeGFwamE4YVN1aTc2M0IvVzhTRm1wQi9oSmNwMXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyMTUzCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCm9vcHlHU1pld21xWXVWY3pXRnhnbUtlbTU1V0FGVVk4T0RUbXhVd1kyNVJJSFJJc1VPT2tVV1Y2S25RdlpjYXorbllpaElGK3VEazZUWGFoTU1XVkFRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.1/Telltale_1.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVQyOGZtalMwdnRobjlIM2ZsMWE5U0U5NHM4d0pNYXhETXNRZFNtWU9GU2VjTkRXSkNONXhXQmVoeGFwamE4YVN1aTc2M0IvVzhTRm1wQi9oSmNwMXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyMTUzCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCm9vcHlHU1pld21xWXVWY3pXRnhnbUtlbTU1V0FGVVk4T0RUbXhVd1kyNVJJSFJJc1VPT2tVV1Y2S25RdlpjYXorbllpaElGK3VEazZUWGFoTU1XVkFRPT0K"
+    }
+  }
+}
