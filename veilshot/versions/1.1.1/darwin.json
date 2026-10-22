@@ -1,0 +1,15 @@
+{
+  "version": "1.1.1",
+  "notes": "- The license screen shows what the app does in motion, drawn in code, with the key and Buy centred beside it.\n- On a large display both halves keep their size and stay together in the middle.\n- \"Buy a license\" stays on one line.",
+  "pub_date": "2026-10-22T18:33:49.962Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/veilshot-v1.1.1/VeilShot_1.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVmeTNWS0pURzY1TTluRWcySkpHZm5ndzA5dTNETjlsWnhBV0p3eUlIbVY4Nm5heHh0RU5SaXhoSzVlNmhwaStsVVVVaU1BQkdhck9BQ3BKVm9lSmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkzOTUzCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCm5QUElBb0Q4cFhJc2lHcVBPWGNFZHlzZ1RNSnYvaG4ySXR1d05tbzNXRlNBTktETmJ3WFZiUVZLQzVQdkFob3FQOTlwTjNQRzRmTkJOejNZYjVXYUFnPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/veilshot-v1.1.1/VeilShot_1.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVmeTNWS0pURzY1TTluRWcySkpHZm5ndzA5dTNETjlsWnhBV0p3eUlIbVY4Nm5heHh0RU5SaXhoSzVlNmhwaStsVVVVaU1BQkdhck9BQ3BKVm9lSmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkzOTUzCWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCm5QUElBb0Q4cFhJc2lHcVBPWGNFZHlzZ1RNSnYvaG4ySXR1d05tbzNXRlNBTktETmJ3WFZiUVZLQzVQdkFob3FQOTlwTjNQRzRmTkJOejNZYjVXYUFnPT0K"
+    }
+  }
+}
