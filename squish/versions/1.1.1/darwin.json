@@ -1,0 +1,15 @@
+{
+  "version": "1.1.1",
+  "notes": "- The license screen shows what the app does in motion, drawn in code, with the key and Buy centred beside it.\n- On a large display both halves keep their size and stay together in the middle.\n- \"Buy a license\" stays on one line.",
+  "pub_date": "2026-10-22T18:21:31.781Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/squish-v1.1.1/Squish_1.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVvaXhCTGdUVDFnVFRTVEdzZk9WbCsxaEdwcGIzZEJSU2I0Wm0vY2RsK3dTdktOL2FHUlZHTEV0S2FDakRiQko1Nm9RUU1PRzltYTZDN254Sml6SlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyNTA1CWZpbGU6U3F1aXNoLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuMQpGczVEZTB4aTRhY1BhZ3BIN1VFNXREdVhGZmdFUE1Sb2U1UlNScExibjVReS9jUXNxUFFXZWFmRWpmanhMODVNUUg3NkQ4Y3kvaEQxaG5hZmtyYWdBdz09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/squish-v1.1.1/Squish_1.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVvaXhCTGdUVDFnVFRTVEdzZk9WbCsxaEdwcGIzZEJSU2I0Wm0vY2RsK3dTdktOL2FHUlZHTEV0S2FDakRiQko1Nm9RUU1PRzltYTZDN254Sml6SlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyNTA1CWZpbGU6U3F1aXNoLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuMQpGczVEZTB4aTRhY1BhZ3BIN1VFNXREdVhGZmdFUE1Sb2U1UlNScExibjVReS9jUXNxUFFXZWFmRWpmanhMODVNUUg3NkQ4Y3kvaEQxaG5hZmtyYWdBdz09Cg=="
+    }
+  }
+}
