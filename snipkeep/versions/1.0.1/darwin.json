@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "notes": "- Settings, Updates: \"See what is new\" opens the release notes.",
+  "pub_date": "2026-10-22T12:21:39.174Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.0.1/Snipkeep_1.0.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFNUEtFSkJYTzE5RmFQMk9tdDRwdlZ6R0lNTjlLWUtsZkRUZ292SUpHTXVtaDZvbnZzaFNIa25uc3JoNHg3T3dkclIvVEl0eU1Eb1B1VHNRT2FvZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxNjQxCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCjlQdXBoSE9tOHpTNzNPbndjVXR5a1dqM3M1amRUWlYzYStFRHZyZWVGdVhlQU5PeG5CM1lJWlF1ZjJ6eW5MMkpNeExlL010LzMxVjdndnV1a1VXaUNBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.0.1/Snipkeep_1.0.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFNUEtFSkJYTzE5RmFQMk9tdDRwdlZ6R0lNTjlLWUtsZkRUZ292SUpHTXVtaDZvbnZzaFNIa25uc3JoNHg3T3dkclIvVEl0eU1Eb1B1VHNRT2FvZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxNjQxCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCjlQdXBoSE9tOHpTNzNPbndjVXR5a1dqM3M1amRUWlYzYStFRHZyZWVGdVhlQU5PeG5CM1lJWlF1ZjJ6eW5MMkpNeExlL010LzMxVjdndnV1a1VXaUNBPT0K"
+    }
+  }
+}
