@@ -1,0 +1,15 @@
+{
+  "version": "1.1.0",
+  "notes": "- A new license screen: what the app does beside your key, a free trial or Buy.\n- Settings, Updates: \"See what is new\" opens the release notes.",
+  "pub_date": "2026-10-22T12:29:04.048Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/squish-v1.1.0/Squish_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVhxYkVOK0pNbjQ1L0tzMDRBSVV5a2xPVExwa1F4NzZxa0w1Y3pmSnNsZkUwdHd4a1Nqc1I4QWNmTDVvRG9xemVjMmQzTG5SYVB3c1VqR3VDc0VHUEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcyMDU5CWZpbGU6U3F1aXNoLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuMApHNGN0VWcwLzdMSzB6OGprazdPZnhvZFpodm14bWhYQlNWOG4zYzdXRkxoQ0dEOGp0SEtMcWpXV2NrR05KMGVVMi9STUlHcDd5QndxQXgvV0ZodGZDdz09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/squish-v1.1.0/Squish_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVhxYkVOK0pNbjQ1L0tzMDRBSVV5a2xPVExwa1F4NzZxa0w1Y3pmSnNsZkUwdHd4a1Nqc1I4QWNmTDVvRG9xemVjMmQzTG5SYVB3c1VqR3VDc0VHUEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcyMDU5CWZpbGU6U3F1aXNoLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjEuMApHNGN0VWcwLzdMSzB6OGprazdPZnhvZFpodm14bWhYQlNWOG4zYzdXRkxoQ0dEOGp0SEtMcWpXV2NrR05KMGVVMi9STUlHcDd5QndxQXgvV0ZodGZDdz09Cg=="
+    }
+  }
+}
