@@ -1,0 +1,15 @@
+{
+  "version": "2.0.1",
+  "notes": "- Scans no longer stall on Google Drive, Dropbox, OneDrive or iCloud Drive. Cloud drives are listed but not read: their files live online, and reading them waited on the internet.\n- An AI session preview is short and plain: the first few messages without formatting marks, in a box that scrolls.",
+  "pub_date": "2026-10-25T19:16:32.977Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.0.1/DiskAtlas_2.0.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVhpSnZ0NmoxdkQ0NWFSbkd0czdPRUVDOU41RVAxQm9GY0NVL3BZM3kwS0hRMjFRQUJqcDlEMnFMcWdMU2xWMk01WFlsTmwrdENPbnJYZEVDWWYya1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1NzM4CWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMQpTUkNnbFVzNXZrbmdtMnNHZzcvc3hxTCt3NmhrMVNtTXhyY01wWmpybGlFZDlCaHp2d3VPYjU5dkRLa0NvNEYxMmFzQnNZYWlMSVpQMXBPWFRqOElBQT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.0.1/DiskAtlas_2.0.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVhpSnZ0NmoxdkQ0NWFSbkd0czdPRUVDOU41RVAxQm9GY0NVL3BZM3kwS0hRMjFRQUJqcDlEMnFMcWdMU2xWMk01WFlsTmwrdENPbnJYZEVDWWYya1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1NzM4CWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMQpTUkNnbFVzNXZrbmdtMnNHZzcvc3hxTCt3NmhrMVNtTXhyY01wWmpybGlFZDlCaHp2d3VPYjU5dkRLa0NvNEYxMmFzQnNZYWlMSVpQMXBPWFRqOElBQT09Cg=="
+    }
+  }
+}
