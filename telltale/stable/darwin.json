@@ -1,15 +1,15 @@
 {
-  "version": "1.1.1",
-  "notes": "- The license screen shows what the app does in motion, drawn in code, with the key and Buy centred beside it.\n- On a large display both halves keep their size and stay together in the middle.\n- \"Buy a license\" stays on one line.",
-  "pub_date": "2026-10-22T18:03:36.320Z",
+  "version": "1.2.0",
+  "notes": "- Overview names what is wrong in one line, with a checklist, and shows This Mac: model, chip, memory, macOS, displays and drives.\n- This week: the hottest apps, battery life and where disk space went, saved as CSV or PDF, with an optional Monday notification.\n- Battery shows the charger, what it gives and why charging is slow or on hold, and the battery's capacity against new.\n- Network shows the Wi-Fi connection, this Mac's address and every drop today, with an alert when it drops.\n- Memory lists apps and dev servers holding memory while idle, with Quit.\n- Projects shows every open port on the Mac, grouped, and old Claude Code and Codex sessions to clear.\n- Sensors shows earbuds left, right and case, the last day and time left.\n- Two optional menu bar items: dev servers running and the lowest Bluetooth device.\n- Alerts keeps its history in its own scrolling column.\n- Offline mode asks one simple question when it goes on.",
+  "pub_date": "2026-10-25T14:10:08.671Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.1/Telltale_1.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVQyOGZtalMwdnRobjlIM2ZsMWE5U0U5NHM4d0pNYXhETXNRZFNtWU9GU2VjTkRXSkNONXhXQmVoeGFwamE4YVN1aTc2M0IvVzhTRm1wQi9oSmNwMXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyMTUzCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCm9vcHlHU1pld21xWXVWY3pXRnhnbUtlbTU1V0FGVVk4T0RUbXhVd1kyNVJJSFJJc1VPT2tVV1Y2S25RdlpjYXorbllpaElGK3VEazZUWGFoTU1XVkFRPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.2.0/Telltale_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNLUWdPY09vRmQvc0xvdm5tbXlqWVM3VDNUbkZ2cVR3cGpyMCtIT0xOV0wzZnVRNDhLN2d6RGk3Qkw2QTY0enVsYUQ2QzdlRXRHU0pxbXBXRkhQTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM3MzEyCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClRiRXZWTUJTZEgrcWZ5RTNPcHQwa29WRFl0TjRpN04wTUJxM015akU0MUhJV3ZIVVFpd283NkhPcy9kUk9OZ3FMOWtOcUZsRG84Zm02RnZsWk9LSUNnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.1.1/Telltale_1.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVQyOGZtalMwdnRobjlIM2ZsMWE5U0U5NHM4d0pNYXhETXNRZFNtWU9GU2VjTkRXSkNONXhXQmVoeGFwamE4YVN1aTc2M0IvVzhTRm1wQi9oSmNwMXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyMTUzCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCm9vcHlHU1pld21xWXVWY3pXRnhnbUtlbTU1V0FGVVk4T0RUbXhVd1kyNVJJSFJJc1VPT2tVV1Y2S25RdlpjYXorbllpaElGK3VEazZUWGFoTU1XVkFRPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.2.0/Telltale_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNLUWdPY09vRmQvc0xvdm5tbXlqWVM3VDNUbkZ2cVR3cGpyMCtIT0xOV0wzZnVRNDhLN2d6RGk3Qkw2QTY0enVsYUQ2QzdlRXRHU0pxbXBXRkhQTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM3MzEyCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClRiRXZWTUJTZEgrcWZ5RTNPcHQwa29WRFl0TjRpN04wTUJxM015akU0MUhJV3ZIVVFpd283NkhPcy9kUk9OZ3FMOWtOcUZsRG84Zm02RnZsWk9LSUNnPT0K"
     }
   }
 }
