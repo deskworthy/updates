@@ -1,0 +1,15 @@
+{
+  "version": "0.1.2",
+  "notes": "- Notifications keep the time they first appeared, instead of saying Now after every launch.",
+  "pub_date": "2026-10-25T19:50:59.484Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.2/Deskworthy_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVEyeW82WWVOTWZhT1JMZDltcjNMeHc3SVloRkkrR1JNeW5ZTGd0NmxKNHhGalNnUmVYMDlMbFhiTHVZcTN2c2MvR2VBdWVvNzZzZ2NZRzRGTkRocFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU3NzkxCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKQ2tzY2lTWUw3b0xDZWR6YzRaVDZacm93RmJMWGpHdm13SnEzTEJtTlltZ3J2WHdqS1lqdkN0amc5Q1hkOGhtSk0wYjltUlM4TGloNStnWXlERUJHRGc9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.2/Deskworthy_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVEyeW82WWVOTWZhT1JMZDltcjNMeHc3SVloRkkrR1JNeW5ZTGd0NmxKNHhGalNnUmVYMDlMbFhiTHVZcTN2c2MvR2VBdWVvNzZzZ2NZRzRGTkRocFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU3NzkxCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKQ2tzY2lTWUw3b0xDZWR6YzRaVDZacm93RmJMWGpHdm13SnEzTEJtTlltZ3J2WHdqS1lqdkN0amc5Q1hkOGhtSk0wYjltUlM4TGloNStnWXlERUJHRGc9PQo="
+    }
+  }
+}

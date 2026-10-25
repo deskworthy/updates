@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "- The Deskworthy icon, the same mark as on deskworthy.app.\n- Back sits at the left of the top bar, and only when there is somewhere to go back to.\n- Light or dark in one click, beside the notifications.\n- Updates links to what is new in each waiting version, to read before updating.\n- Apps coming soon show their icon, with a Coming soon row at the end of Discover.\n- The search field uses its full width.",
-  "pub_date": "2026-10-25T19:23:07.690Z",
+  "version": "0.1.2",
+  "notes": "- Notifications keep the time they first appeared, instead of saying Now after every launch.",
+  "pub_date": "2026-10-25T19:50:59.484Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.1/Deskworthy_0.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNxaThhbDF2YVdWYUFBSU5Gd0tERFVGM1JqNUU5QnRKR1V0bmRiM2NERTc5dU04TjRWNnVNbjlHMW1JeUZGREUrNk1ZQjAxdEMzNGZuVG14WU1IelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU2MTIyCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKemtmMEI2Y3pUazFCWk9lTnYvZ3VuSmpZNkhEcTRKUFNQMkpDOG9FWmFsdUxjaisvd1hKbm9EYmRlOWNreE0vTzcrQWllMUE0aGpzODQzaVFDVDNXQnc9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.2/Deskworthy_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVEyeW82WWVOTWZhT1JMZDltcjNMeHc3SVloRkkrR1JNeW5ZTGd0NmxKNHhGalNnUmVYMDlMbFhiTHVZcTN2c2MvR2VBdWVvNzZzZ2NZRzRGTkRocFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU3NzkxCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKQ2tzY2lTWUw3b0xDZWR6YzRaVDZacm93RmJMWGpHdm13SnEzTEJtTlltZ3J2WHdqS1lqdkN0amc5Q1hkOGhtSk0wYjltUlM4TGloNStnWXlERUJHRGc9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.1/Deskworthy_0.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNxaThhbDF2YVdWYUFBSU5Gd0tERFVGM1JqNUU5QnRKR1V0bmRiM2NERTc5dU04TjRWNnVNbjlHMW1JeUZGREUrNk1ZQjAxdEMzNGZuVG14WU1IelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU2MTIyCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKemtmMEI2Y3pUazFCWk9lTnYvZ3VuSmpZNkhEcTRKUFNQMkpDOG9FWmFsdUxjaisvd1hKbm9EYmRlOWNreE0vTzcrQWllMUE0aGpzODQzaVFDVDNXQnc9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.2/Deskworthy_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVEyeW82WWVOTWZhT1JMZDltcjNMeHc3SVloRkkrR1JNeW5ZTGd0NmxKNHhGalNnUmVYMDlMbFhiTHVZcTN2c2MvR2VBdWVvNzZzZ2NZRzRGTkRocFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU3NzkxCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKQ2tzY2lTWUw3b0xDZWR6YzRaVDZacm93RmJMWGpHdm13SnEzTEJtTlltZ3J2WHdqS1lqdkN0amc5Q1hkOGhtSk0wYjltUlM4TGloNStnWXlERUJHRGc9PQo="
     }
   }
 }
