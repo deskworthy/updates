@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "notes": "- Cleanup is a list of categories: system junk, developer, AI tools, AI sessions, left behind, duplicates, big and old.\n- What rebuilds itself arrives ticked; every category ticks or unticks in one click.\n- Old Claude Code and Codex sessions by project, with a preview of each; running ones are never offered.\n- Space shows your disk in columns; tick anything there and it joins the same cleanup.\n- A folder you tick goes in whole; when something cannot go, it says why.\n- Show in Finder on every item and group, and a running total of what the ticks free.\n- The final check groups everything by what happens to it; your own files get one more question.\n- Done shows free space now and after the Trash is emptied, and puts everything back in one click.\n- Library Caches and Logs are emptied rather than moved, which macOS refused before.\n- Cleanup and Overview open at once when you come back to them.\n- Never suggest this: hide a folder from Cleanup for good, and undo it in Settings.\n- Offline mode asks one simple question when it goes on.",
+  "pub_date": "2026-10-25T14:22:43.462Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.0.0/Kempt_2.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWQzUlNsRkxmQ3V5QnVYTWw0cWoxRmRPZytIMFdOaEhvUDVSM3FRVVRkZys3TVdJV0NaYWZkMW8wdkhNMGpxZmhzalFCKzhHTWpiVmZOT3FVZ3hlUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM4MTA0CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMC4wCmJDd3prMGVDT1JkQlU1TEtCbm1UNG8wTG15Zzh5UHhGVFBFSU1OaVhlSFA5dzZTSjd2dG1CRVZwZ0Z5WEpic0RtSzVWOGJIMng3d3NwZTUvNFBBTEJRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.0.0/Kempt_2.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWQzUlNsRkxmQ3V5QnVYTWw0cWoxRmRPZytIMFdOaEhvUDVSM3FRVVRkZys3TVdJV0NaYWZkMW8wdkhNMGpxZmhzalFCKzhHTWpiVmZOT3FVZ3hlUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM4MTA0CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMC4wCmJDd3prMGVDT1JkQlU1TEtCbm1UNG8wTG15Zzh5UHhGVFBFSU1OaVhlSFA5dzZTSjd2dG1CRVZwZ0Z5WEpic0RtSzVWOGJIMng3d3NwZTUvNFBBTEJRPT0K"
+    }
+  }
+}
