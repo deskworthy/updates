@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "- The first beta of Deskworthy, one free app for every Deskworthy app.\n- Type a problem, such as \"my disk is full\", and see the app that solves it. The search runs on this Mac.\n- Install, update and remove any Deskworthy app in one click.\n- See where each app stands: included, owned, on trial, trial ended or free to try.\n- Sign in to see your keys and the computers they are on, and add a key to this Mac.\n- A reminder on the last day of a trial.\n- Links from the website open the right app or screen.",
-  "pub_date": "2026-10-25T12:30:28.658Z",
+  "version": "0.1.1",
+  "notes": "- The Deskworthy icon, the same mark as on deskworthy.app.\n- Back sits at the left of the top bar, and only when there is somewhere to go back to.\n- Light or dark in one click, beside the notifications.\n- Updates links to what is new in each waiting version, to read before updating.\n- Apps coming soon show their icon, with a Coming soon row at the end of Discover.\n- The search field uses its full width.",
+  "pub_date": "2026-10-25T19:23:07.690Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.0/Deskworthy_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWI2ckdTeGsza2JiMVY1dHQyeTcvS29YbVpsZzZyTnlYbUhOVHVFandkZzIwQ0NSbFNKWk5rcFQrR1RYMjA2TncxNUQ4dFR0eFhmKzhaN2xSQjRjcEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTMxMzUxCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKVWpvVW5Rc3hDZFIzTFpOWnJWcjFhcUNLdFQ5dXBaSVpKbmhNRkVxdU1PaXJMV2ovNHZTSjdaRk1ON1VDMXZvTThYMER4cm9UcTBIcHd1YlNmbTVJRGc9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.1/Deskworthy_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNxaThhbDF2YVdWYUFBSU5Gd0tERFVGM1JqNUU5QnRKR1V0bmRiM2NERTc5dU04TjRWNnVNbjlHMW1JeUZGREUrNk1ZQjAxdEMzNGZuVG14WU1IelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU2MTIyCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKemtmMEI2Y3pUazFCWk9lTnYvZ3VuSmpZNkhEcTRKUFNQMkpDOG9FWmFsdUxjaisvd1hKbm9EYmRlOWNreE0vTzcrQWllMUE0aGpzODQzaVFDVDNXQnc9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.0/Deskworthy_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWI2ckdTeGsza2JiMVY1dHQyeTcvS29YbVpsZzZyTnlYbUhOVHVFandkZzIwQ0NSbFNKWk5rcFQrR1RYMjA2TncxNUQ4dFR0eFhmKzhaN2xSQjRjcEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTMxMzUxCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKVWpvVW5Rc3hDZFIzTFpOWnJWcjFhcUNLdFQ5dXBaSVpKbmhNRkVxdU1PaXJMV2ovNHZTSjdaRk1ON1VDMXZvTThYMER4cm9UcTBIcHd1YlNmbTVJRGc9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/store-v0.1.1/Deskworthy_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNxaThhbDF2YVdWYUFBSU5Gd0tERFVGM1JqNUU5QnRKR1V0bmRiM2NERTc5dU04TjRWNnVNbjlHMW1JeUZGREUrNk1ZQjAxdEMzNGZuVG14WU1IelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU2MTIyCWZpbGU6RGVza3dvcnRoeS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKemtmMEI2Y3pUazFCWk9lTnYvZ3VuSmpZNkhEcTRKUFNQMkpDOG9FWmFsdUxjaisvd1hKbm9EYmRlOWNreE0vTzcrQWllMUE0aGpzODQzaVFDVDNXQnc9PQo="
     }
   }
 }
