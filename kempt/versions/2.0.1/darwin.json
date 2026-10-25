@@ -1,0 +1,15 @@
+{
+  "version": "2.0.1",
+  "notes": "- Scans no longer stall on Google Drive, Dropbox, OneDrive or iCloud Drive. Cloud drives are listed but not read: their files live online, and reading them waited on the internet.\n- An AI session preview is short and plain: the first few messages without formatting marks, in a box that scrolls.",
+  "pub_date": "2026-10-25T19:10:59.407Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.0.1/Kempt_2.0.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVNHN3JpbkpZRC9xY0FOQXNkM1Z0dGhEM1I4TEdzQ0dCYjVacU15M1UxL1VhSU81aThxZlYxV3YyVjNXa3FjUzFDbjNOcHFaSmZtSHRUWFlncml4akFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1MjgwCWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMC4xCmptRGZGUi8yb2UyYWFHZHA2WXdUV1dXNC9INXZ5WVpwU0w2STRUUXlPV3lKNTlEVW5TNUlNYTBhb0ZrcHUzM3JGdkJNb21SYkxNTWtiSzNZR1VNNkR3PT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.0.1/Kempt_2.0.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVNHN3JpbkpZRC9xY0FOQXNkM1Z0dGhEM1I4TEdzQ0dCYjVacU15M1UxL1VhSU81aThxZlYxV3YyVjNXa3FjUzFDbjNOcHFaSmZtSHRUWFlncml4akFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1MjgwCWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMC4xCmptRGZGUi8yb2UyYWFHZHA2WXdUV1dXNC9INXZ5WVpwU0w2STRUUXlPV3lKNTlEVW5TNUlNYTBhb0ZrcHUzM3JGdkJNb21SYkxNTWtiSzNZR1VNNkR3PT0K"
+    }
+  }
+}
