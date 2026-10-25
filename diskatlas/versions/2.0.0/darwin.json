@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "notes": "- Two tabs replace the sidebar: Clean up gives the answer, Explore shows the disk.\n- One cleanup on every screen: the pill in the header opens it, docked beside you, with Review and clean always in view.\n- What rebuilds itself is in the cleanup after a scan; nothing moves until the final check.\n- Worth a look: idle project dependencies, local AI models, finished worktrees, old installers, device backups, big files not opened in a year, duplicates and old AI sessions, each with its own Add.\n- See everything found: every category DiskAtlas recognises, each item with its own tick.\n- Explore in columns, folder by folder, or as a map coloured by what things are.\n- Old Claude Code and Codex sessions by project, with a preview of each.\n- A folder you tick goes in whole; when something cannot go, it says why.\n- Never suggest this: hide a folder from Clean up for good, and undo it in Settings.\n- The final check groups everything by what happens to it; Keep takes an item out.\n- Done shows free space now and after the Trash is emptied, and puts everything back in one click.\n- Library Caches and Logs are emptied rather than moved, which macOS refused before.\n- Pause a scan and carry on later.\n- Offline mode asks one simple question when it goes on.",
+  "pub_date": "2026-10-25T14:15:48.320Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.0.0/DiskAtlas_2.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVk4VU52bnNlUGUrM1p2ZElsSVl6NjlNRFgrNnZGRnBaTjVMLzlvcFZwV2NQVHNRS0RuV2ZtWHg2QVM1cnZNKzFxU1lvVm5SelI4WDRuZUxKbHB4S1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM3NjkyCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMApEVHEzUElVd0J3UE5Kc29Wc0ZsL1VwWUZnWUc3QmdMZzRjNU8vcnNDN2ZzWGRJWVVoZ1RBRnlJRDNRSWxHOGNtYUR6NFFic2Q5c0ViVCtjcW84M1pCdz09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.0.0/DiskAtlas_2.0.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVk4VU52bnNlUGUrM1p2ZElsSVl6NjlNRFgrNnZGRnBaTjVMLzlvcFZwV2NQVHNRS0RuV2ZtWHg2QVM1cnZNKzFxU1lvVm5SelI4WDRuZUxKbHB4S1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM3NjkyCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjAuMApEVHEzUElVd0J3UE5Kc29Wc0ZsL1VwWUZnWUc3QmdMZzRjNU8vcnNDN2ZzWGRJWVVoZ1RBRnlJRDNRSWxHOGNtYUR6NFFic2Q5c0ViVCtjcW84M1pCdz09Cg=="
+    }
+  }
+}
