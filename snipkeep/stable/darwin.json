@@ -1,15 +1,15 @@
 {
-  "version": "1.0.1",
-  "notes": "- Settings, Updates: \"See what is new\" opens the release notes.",
-  "pub_date": "2026-10-22T12:21:39.174Z",
+  "version": "1.1.0",
+  "notes": "- Two toolbars that follow your selection: the tools sit beside it, the quiet ways out sit\n  below. Copy and save shows a history clock.\n- A Stamp tool with ticks, crosses and emoji. Move, resize or delete a stamp after placing it.\n- Dragging selects an area with no window highlight. Press Space to pick a window instead.\n- The capture keeps focus over full-screen apps and shows the crosshair at once.\n- Full-screen Chrome is captured as one window, and desktop widgets are no longer offered.\n- The share menu opens where there is room.\n- The pointer shows when a selection can be moved.\n- Undo brings back stamps you removed or moved.",
+  "pub_date": "2026-10-29T19:30:58.952Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.0.1/Snipkeep_1.0.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFNUEtFSkJYTzE5RmFQMk9tdDRwdlZ6R0lNTjlLWUtsZkRUZ292SUpHTXVtaDZvbnZzaFNIa25uc3JoNHg3T3dkclIvVEl0eU1Eb1B1VHNRT2FvZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxNjQxCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCjlQdXBoSE9tOHpTNzNPbndjVXR5a1dqM3M1amRUWlYzYStFRHZyZWVGdVhlQU5PeG5CM1lJWlF1ZjJ6eW5MMkpNeExlL010LzMxVjdndnV1a1VXaUNBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.1.0/Snipkeep_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVY2SUV3R1ovaUxmNEhuOERBTU1PSWhhb0wzV2dXR3B5SzhPWG9zcTRZV3htTEVsUi9TSkdOdUt5aG9VY3dNVEFsRitPaXpHb1ZpYnUzc1l3K2x5NmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAyMTg3CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCml1VE12d1h1RlV4QmEzNjBCLzIvUUtoYmhXYWhhdFZyWUJtQkkwbDNSYWVTNTEzSGFUNm11MFhpN1BsTk5WVTdRV2NBbzRGYk03K2FaRXZ3a1BSbENnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.0.1/Snipkeep_1.0.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFNUEtFSkJYTzE5RmFQMk9tdDRwdlZ6R0lNTjlLWUtsZkRUZ292SUpHTXVtaDZvbnZzaFNIa25uc3JoNHg3T3dkclIvVEl0eU1Eb1B1VHNRT2FvZ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcxNjQxCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4xCjlQdXBoSE9tOHpTNzNPbndjVXR5a1dqM3M1amRUWlYzYStFRHZyZWVGdVhlQU5PeG5CM1lJWlF1ZjJ6eW5MMkpNeExlL010LzMxVjdndnV1a1VXaUNBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.1.0/Snipkeep_1.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVY2SUV3R1ovaUxmNEhuOERBTU1PSWhhb0wzV2dXR3B5SzhPWG9zcTRZV3htTEVsUi9TSkdOdUt5aG9VY3dNVEFsRitPaXpHb1ZpYnUzc1l3K2x5NmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzAyMTg3CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCml1VE12d1h1RlV4QmEzNjBCLzIvUUtoYmhXYWhhdFZyWUJtQkkwbDNSYWVTNTEzSGFUNm11MFhpN1BsTk5WVTdRV2NBbzRGYk03K2FaRXZ3a1BSbENnPT0K"
     }
   }
 }
