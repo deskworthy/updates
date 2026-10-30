@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "- Unlock with Touch ID works in the signed app: turning it on no longer says it could not be turned on.\n- The master password box in Settings, Security keeps its width when a message shows under it.",
+  "pub_date": "2026-10-30T20:40:11.376Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.1/Lockwell_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZzVEE2eExxaUEvQlhiSkdiT2pYcXBwZXg3SGx1UzlORUVVRVZhcVc1Z29uVVZBS0FDSE9iblliTHdyWksrZndNUXJEdXdDeFNEQUxFWDRPNzNHMEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkyNzMxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCjRjZVBQUWg3NSt2dVRSSWRsNVRXall4djZDNXhWejJwdGRncTJ1eGNscTJWK2hOdUk3NEJDcGxZRW5VenJ6SEIzYlhDcDNtS3gvZ2JXUVI2NnBkTkNBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.1/Lockwell_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZzVEE2eExxaUEvQlhiSkdiT2pYcXBwZXg3SGx1UzlORUVVRVZhcVc1Z29uVVZBS0FDSE9iblliTHdyWksrZndNUXJEdXdDeFNEQUxFWDRPNzNHMEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkyNzMxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCjRjZVBQUWg3NSt2dVRSSWRsNVRXall4djZDNXhWejJwdGRncTJ1eGNscTJWK2hOdUk3NEJDcGxZRW5VenJ6SEIzYlhDcDNtS3gvZ2JXUVI2NnBkTkNBPT0K"
+    }
+  }
+}
