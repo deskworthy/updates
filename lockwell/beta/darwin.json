@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "- Unlock with Touch ID works in the signed app: turning it on no longer says it could not be turned on.\n- The master password box in Settings, Security keeps its width when a message shows under it.",
-  "pub_date": "2026-10-30T20:40:11.376Z",
+  "version": "0.1.2",
+  "notes": "- Settings opens inside the Lockwell window, with Done to go back, instead of a window of its own.\n- Touch ID asks straight away, names Lockwell in its prompt, and the button shows a fingerprint.\n- After a few unlocks with your master password, Lockwell offers to unlock with Touch ID next time. Not now means it never asks again.\n- A license screen with a free trial. After the trial every vault still unlocks, searches, copies, backs up and exports; adding and changing items needs a license.\n- Quit and Command-Q quit Lockwell.\n- Messages under a field no longer squeeze it, and buttons no longer break onto two lines.",
+  "pub_date": "2026-10-30T21:39:05.387Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.1/Lockwell_0.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZzVEE2eExxaUEvQlhiSkdiT2pYcXBwZXg3SGx1UzlORUVVRVZhcVc1Z29uVVZBS0FDSE9iblliTHdyWksrZndNUXJEdXdDeFNEQUxFWDRPNzNHMEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkyNzMxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCjRjZVBQUWg3NSt2dVRSSWRsNVRXall4djZDNXhWejJwdGRncTJ1eGNscTJWK2hOdUk3NEJDcGxZRW5VenJ6SEIzYlhDcDNtS3gvZ2JXUVI2NnBkTkNBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.2/Lockwell_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYrNUt6Umg2a2IrQ1AyMCtwTnJLRHhJTG1vME5yd1U3NkpMcGdNNHo1eDN1bFV5WUdydExTT21kL3ltY01Bck5KVjVkd0wrMTI1UXVsZGFVS2dBelFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk2MjgxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yCkl5UG5GSi9lVHNrMituSlNRUitzQ0YwSGZZR0FCM3Y0SWptcjRNWm5IZGlhelUrSEJxcHdYUnc3aWNHNkVjb0lsSXRrcjArNHpidTAyZyt2cnQ3cERRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.1/Lockwell_0.1.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZzVEE2eExxaUEvQlhiSkdiT2pYcXBwZXg3SGx1UzlORUVVRVZhcVc1Z29uVVZBS0FDSE9iblliTHdyWksrZndNUXJEdXdDeFNEQUxFWDRPNzNHMEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzkyNzMxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCjRjZVBQUWg3NSt2dVRSSWRsNVRXall4djZDNXhWejJwdGRncTJ1eGNscTJWK2hOdUk3NEJDcGxZRW5VenJ6SEIzYlhDcDNtS3gvZ2JXUVI2NnBkTkNBPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.2/Lockwell_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYrNUt6Umg2a2IrQ1AyMCtwTnJLRHhJTG1vME5yd1U3NkpMcGdNNHo1eDN1bFV5WUdydExTT21kL3ltY01Bck5KVjVkd0wrMTI1UXVsZGFVS2dBelFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk2MjgxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yCkl5UG5GSi9lVHNrMituSlNRUitzQ0YwSGZZR0FCM3Y0SWptcjRNWm5IZGlhelUrSEJxcHdYUnc3aWNHNkVjb0lsSXRrcjArNHpidTAyZyt2cnQ3cERRPT0K"
     }
   }
 }
