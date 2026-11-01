@@ -1,15 +1,15 @@
 {
-  "version": "0.1.3",
-  "notes": "- The Touch ID prompt shows Lockwell's icon instead of a blank program icon.\n- The Touch ID prompt no longer offers \"Use Password\". Type your master password on Lockwell's own unlock screen.",
-  "pub_date": "2026-11-01T09:24:40.488Z",
+  "version": "0.1.4",
+  "notes": "- Touch ID keeps working after you quit Lockwell or it updates. Your master password is asked again only after your Mac restarts, and every 7 days.\n- When Touch ID waits for your master password, the unlock screen says why instead of hiding the button without a word.",
+  "pub_date": "2026-11-01T10:11:52.115Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.3/Lockwell_0.1.3_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWMxczc2VkhmZ2xvWVUzR2pJVXYzQUp6MC9LLy9FWHdqVGRxbDRpNU4zSEZ5VnpSMllJTzRMWGJrWEZqWHZyRTVjMFh1QTZWMjdxK0VSSFRLQno5SGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI0OTM2CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4zCkVGYWJhRkZkWWZaM21GTnNDRjdwOGl6OWVRYlpHcnZuMkJ4WmlCUElFSW92Q1VNa2NKNUYxR1RnaWRSYzd5UC9FWXQ0WnhSTFhIc2JTeTBydzRvY0FnPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.4/Lockwell_0.1.4_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWRTb2VSdWtLTjZPWVVVQWNiQWNQLzFZaFhWMGNkYklQekJvSElHVStTV2pNSEt5eGtDNE4wVzFTVzFiN1o5dDdqb1FEbmtXN3JsTThhUFNpQzA5cWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI3ODQxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40ClVTTmhDRjR5TXg0ZmtkNDkySDZ0bkJVNTFhVHhVK3l0WlVpQTAweXJUMFJWaTcwM2h1VHhTQlU1NFYwMmZGM2dWTGtyUUNYSTBYNmJqNytVTEpjQURBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.3/Lockwell_0.1.3_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWMxczc2VkhmZ2xvWVUzR2pJVXYzQUp6MC9LLy9FWHdqVGRxbDRpNU4zSEZ5VnpSMllJTzRMWGJrWEZqWHZyRTVjMFh1QTZWMjdxK0VSSFRLQno5SGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI0OTM2CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4zCkVGYWJhRkZkWWZaM21GTnNDRjdwOGl6OWVRYlpHcnZuMkJ4WmlCUElFSW92Q1VNa2NKNUYxR1RnaWRSYzd5UC9FWXQ0WnhSTFhIc2JTeTBydzRvY0FnPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.1.4/Lockwell_0.1.4_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWRTb2VSdWtLTjZPWVVVQWNiQWNQLzFZaFhWMGNkYklQekJvSElHVStTV2pNSEt5eGtDNE4wVzFTVzFiN1o5dDdqb1FEbmtXN3JsTThhUFNpQzA5cWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI3ODQxCWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40ClVTTmhDRjR5TXg0ZmtkNDkySDZ0bkJVNTFhVHhVK3l0WlVpQTAweXJUMFJWaTcwM2h1VHhTQlU1NFYwMmZGM2dWTGtyUUNYSTBYNmJqNytVTEpjQURBPT0K"
     }
   }
 }
