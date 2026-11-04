@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "notes": "- Snipkeep follows your Mac's language: English, German, Spanish, French, Italian, Dutch,\n  Brazilian Portuguese, Swedish, Ukrainian, Japanese, Korean and Chinese (Simplified and\n  Traditional).\n- The capture key works on the Space you are on after your Mac wakes from sleep, including\n  over a full-screen app such as Chrome.",
+  "pub_date": "2026-11-04T20:08:48.577Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.0/Snipkeep_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZSOStldDg4aWtQZThYNHNleDBHKzNLaXRXcXFkT0E5WnArMTA5QzBleTJzbEYxN2NLWEtPUDgxYXhxK0N4THlBM1NYUlUwaGtML0VZNUV4OEF3NEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIyODUzCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCkdJenBOaGsvL0U3ejhLOFRnR3phazNIZ1NQdzVLdkJSWklWWFpDWFUrNUFKY1Zsc1F6VEhRcEhneDlrVUJXWk1OTm5TOUdjVjJhRVdaZXpMN1RwSkNRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.0/Snipkeep_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZSOStldDg4aWtQZThYNHNleDBHKzNLaXRXcXFkT0E5WnArMTA5QzBleTJzbEYxN2NLWEtPUDgxYXhxK0N4THlBM1NYUlUwaGtML0VZNUV4OEF3NEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIyODUzCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCkdJenBOaGsvL0U3ejhLOFRnR3phazNIZ1NQdzVLdkJSWklWWFpDWFUrNUFKY1Zsc1F6VEhRcEhneDlrVUJXWk1OTm5TOUdjVjJhRVdaZXpMN1RwSkNRPT0K"
+    }
+  }
+}
