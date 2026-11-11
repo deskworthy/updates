@@ -1,0 +1,15 @@
+{
+  "version": "1.2.1",
+  "notes": "- The capture key and the capture button work again after your Mac has been asleep for\n  days. If macOS had shut down the capture screen's background process, Snipkeep now loads\n  it again instead of needing a restart.",
+  "pub_date": "2026-11-11T19:39:13.860Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.1/Snipkeep_1.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNLR1U1OXhmWWd3eVNjUUhwWlZnbmZXSUQrSUFGajFUYkxhcnRDK2RTTWRNRlhLMHB4bVdFc0YyMlN3T0JjaU5UdVlpeWlaUTl1YXR0SXhDTG1BcmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1ODY5CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4xCnQ3Z1NrNmlJRGZ5b1pERmFCQWtmYnJOb3BReklVR2FONHhHTjBRRnR1MTF1eDNJYldycm1iQnlyR1dhcDRpLzlTZXNyMnhMVktuN1lBVVJUTTU0L0FBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.1/Snipkeep_1.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNLR1U1OXhmWWd3eVNjUUhwWlZnbmZXSUQrSUFGajFUYkxhcnRDK2RTTWRNRlhLMHB4bVdFc0YyMlN3T0JjaU5UdVlpeWlaUTl1YXR0SXhDTG1BcmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1ODY5CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4xCnQ3Z1NrNmlJRGZ5b1pERmFCQWtmYnJOb3BReklVR2FONHhHTjBRRnR1MTF1eDNJYldycm1iQnlyR1dhcDRpLzlTZXNyMnhMVktuN1lBVVJUTTU0L0FBPT0K"
+    }
+  }
+}
