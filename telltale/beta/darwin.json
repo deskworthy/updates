@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
-  "notes": "- Overview names what is wrong in one line, with a checklist, and shows This Mac: model, chip, memory, macOS, displays and drives.\n- This week: the hottest apps, battery life and where disk space went, saved as CSV or PDF, with an optional Monday notification.\n- Battery shows the charger, what it gives and why charging is slow or on hold, and the battery's capacity against new.\n- Network shows the Wi-Fi connection, this Mac's address and every drop today, with an alert when it drops.\n- Memory lists apps and dev servers holding memory while idle, with Quit.\n- Projects shows every open port on the Mac, grouped, and old Claude Code and Codex sessions to clear.\n- Sensors shows earbuds left, right and case, the last day and time left.\n- Two optional menu bar items: dev servers running and the lowest Bluetooth device.\n- Alerts keeps its history in its own scrolling column.\n- Offline mode asks one simple question when it goes on.",
-  "pub_date": "2026-10-25T14:10:08.671Z",
+  "version": "1.3.0",
+  "notes": "- All ports names the project a dev server runs in, the app beside each process, and how each port got started: Terminal, zsh, claude, node.\n- Open any process for when it started, what it costs, its ports and what it is connected to, with Copy as text and Quit for your own.\n- New marks what started in the last ten minutes; what quit stays dimmed for ten minutes, so a dev server that died is noticed.\n- The battery menu bar item can show the battery with its percentage inside.\n- Choose how many apps the glance lists, 3 to 20.\n- Memory shows pressure and swap over time.\n- The GPU tab opens each app to its processes' GPU share.\n- Apps exports its list: copy for a spreadsheet, or save as CSV.\n- Apps shows idle wake ups per app, and Settings has a search field.\n- Bluetooth keeps a connected device that reports no battery, and says so.",
+  "pub_date": "2026-11-12T09:19:24.171Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.2.0/Telltale_1.2.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNLUWdPY09vRmQvc0xvdm5tbXlqWVM3VDNUbkZ2cVR3cGpyMCtIT0xOV0wzZnVRNDhLN2d6RGk3Qkw2QTY0enVsYUQ2QzdlRXRHU0pxbXBXRkhQTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM3MzEyCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClRiRXZWTUJTZEgrcWZ5RTNPcHQwa29WRFl0TjRpN04wTUJxM015akU0MUhJV3ZIVVFpd283NkhPcy9kUk9OZ3FMOWtOcUZsRG84Zm02RnZsWk9LSUNnPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.3.0/Telltale_1.3.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVyckRZZWJqTkpHSUxVVTJqSzF3elB6dElrZW81R21JWWNzSlgrVWZ0Z2txYmtsYW1qNzYzTml6ZExVK1VXaDNCQk4ydnlBUnZ0SlppWmg5TTJWWndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc0ODY2CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMy4wCmwyUTZQUVFlRWdVa1EwQ3R5UXdpYkxPTjBqZlhoUXZ4K2FRNDZVYzhaaDNpNXpTMUxESy9lZVhNc1hsZncvWHZNNU5GeENrT2xtY1RrbHhabVhXWURnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.2.0/Telltale_1.2.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNLUWdPY09vRmQvc0xvdm5tbXlqWVM3VDNUbkZ2cVR3cGpyMCtIT0xOV0wzZnVRNDhLN2d6RGk3Qkw2QTY0enVsYUQ2QzdlRXRHU0pxbXBXRkhQTUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM3MzEyCWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wClRiRXZWTUJTZEgrcWZ5RTNPcHQwa29WRFl0TjRpN04wTUJxM015akU0MUhJV3ZIVVFpd283NkhPcy9kUk9OZ3FMOWtOcUZsRG84Zm02RnZsWk9LSUNnPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.3.0/Telltale_1.3.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVyckRZZWJqTkpHSUxVVTJqSzF3elB6dElrZW81R21JWWNzSlgrVWZ0Z2txYmtsYW1qNzYzTml6ZExVK1VXaDNCQk4ydnlBUnZ0SlppWmg5TTJWWndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc0ODY2CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuMy4wCmwyUTZQUVFlRWdVa1EwQ3R5UXdpYkxPTjBqZlhoUXZ4K2FRNDZVYzhaaDNpNXpTMUxESy9lZVhNc1hsZncvWHZNNU5GeENrT2xtY1RrbHhabVhXWURnPT0K"
     }
   }
 }
