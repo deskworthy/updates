@@ -1,0 +1,15 @@
+{
+  "version": "2.1.1",
+  "notes": "- While a scan runs, the list of what it looks for stays still instead of shifting as the counts change.",
+  "pub_date": "2026-11-12T18:12:06.117Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.1.1/Kempt_2.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWF0WlFkcVhVWkY0bDVsYXBQcWY1bjZOd3F6UHFIRU52bDYreFdhYWhtUXAxdEFlUnZpK2Rsdm9QTnlCM3ZyblBtY0ltd1duSnQ0MXlGRmJ0dUQ5bmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA3MDQ3CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMS4xCjVsd3BTYVl0WHlFVVV2TzJWYVUzYXFDbHNtZ2RqNXdwVlpIMUxqbHNrZDFid2ZmU0dnVElCemZVZCtvcVhOdFVKMW02bUVKTUZob2VHMzVUc1c0b0FRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.1.1/Kempt_2.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWF0WlFkcVhVWkY0bDVsYXBQcWY1bjZOd3F6UHFIRU52bDYreFdhYWhtUXAxdEFlUnZpK2Rsdm9QTnlCM3ZyblBtY0ltd1duSnQ0MXlGRmJ0dUQ5bmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA3MDQ3CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMS4xCjVsd3BTYVl0WHlFVVV2TzJWYVUzYXFDbHNtZ2RqNXdwVlpIMUxqbHNrZDFid2ZmU0dnVElCemZVZCtvcVhOdFVKMW02bUVKTUZob2VHMzVUc1c0b0FRPT0K"
+    }
+  }
+}
