@@ -1,0 +1,15 @@
+{
+  "version": "2.1.0",
+  "notes": "- After a cleanup, Done shows what moved against what you asked for, your disk now and once the Trash is emptied, and what stayed, grouped by why. Long lists scroll in their own box and the buttons always stay in view.\n- A scan you start right after opening the app is no longer replaced by the previous scan while that one is still loading.",
+  "pub_date": "2026-11-12T10:35:38.744Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.1.0/DiskAtlas_2.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNTRlBsYmRhcEZyaloxM1FldDNMODQ0NW1uTnY0a0g1ZG9mYnJWb2tYQzdkVFYzWk5WQ2pnM1ZzeVN0c0lKYlVRMDcwbk9VMGJPeGF0QUdxN0NISmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc5NjYyCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjEuMApzSWFTV08xSk1SSkl6aTJoV053SElsQ294eVRpQmJXcXZsekRVUndSdlp4VHk3a2xMTnA2Q05oeFA4RGlxRFhmUGRMdUVidHBYbk9OWnFYaE1OMGxCQT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.1.0/DiskAtlas_2.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWNTRlBsYmRhcEZyaloxM1FldDNMODQ0NW1uTnY0a0g1ZG9mYnJWb2tYQzdkVFYzWk5WQ2pnM1ZzeVN0c0lKYlVRMDcwbk9VMGJPeGF0QUdxN0NISmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc5NjYyCWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjEuMApzSWFTV08xSk1SSkl6aTJoV053SElsQ294eVRpQmJXcXZsekRVUndSdlp4VHk3a2xMTnA2Q05oeFA4RGlxRFhmUGRMdUVidHBYbk9OWnFYaE1OMGxCQT09Cg=="
+    }
+  }
+}
