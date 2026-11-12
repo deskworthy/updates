@@ -1,15 +1,15 @@
 {
-  "version": "2.0.1",
-  "notes": "- Scans no longer stall on Google Drive, Dropbox, OneDrive or iCloud Drive. Cloud drives are listed but not read: their files live online, and reading them waited on the internet.\n- An AI session preview is short and plain: the first few messages without formatting marks, in a box that scrolls.",
-  "pub_date": "2026-10-25T19:10:59.407Z",
+  "version": "2.1.0",
+  "notes": "- After a cleanup, Done shows what moved against what you asked for, your disk now and once the Trash is emptied, and what stayed, grouped by why. Long lists scroll in their own box and the buttons always stay in view.\n- A scan you start right after opening the app is no longer replaced by the previous scan while that one is still loading.\n- The first scan finds the same safe space to clean as a second scan straight after.\n- Review safe clean answers the first click: it says it is working, and if it cannot open the review it says why.",
+  "pub_date": "2026-11-12T10:27:22.116Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.0.1/Kempt_2.0.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVNHN3JpbkpZRC9xY0FOQXNkM1Z0dGhEM1I4TEdzQ0dCYjVacU15M1UxL1VhSU81aThxZlYxV3YyVjNXa3FjUzFDbjNOcHFaSmZtSHRUWFlncml4akFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1MjgwCWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMC4xCmptRGZGUi8yb2UyYWFHZHA2WXdUV1dXNC9INXZ5WVpwU0w2STRUUXlPV3lKNTlEVW5TNUlNYTBhb0ZrcHUzM3JGdkJNb21SYkxNTWtiSzNZR1VNNkR3PT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.1.0/Kempt_2.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVc5ZzJrSjFMQ2pSTldJVXN4VWhmc3grS21OZSt0bjBSQkcvM2ZQeVIxb2RNMGVZbnRacXp5WC9sVW16N0NmaUtONlJnNDhCU0FWWUhSL00wR3lmRlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc5MTczCWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMS4wClo1UzliaURKSW9SaytSeThpRlJNWW8ySGlKTmR6dHUwVFV2alNkclFrOGt0eWN5NmVSeGdWbk5mWWJiK2J0TFF1YXR4ay8rSTFMcUtYdXlRZGNpVEFnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.0.1/Kempt_2.0.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVNHN3JpbkpZRC9xY0FOQXNkM1Z0dGhEM1I4TEdzQ0dCYjVacU15M1UxL1VhSU81aThxZlYxV3YyVjNXa3FjUzFDbjNOcHFaSmZtSHRUWFlncml4akFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTU1MjgwCWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMC4xCmptRGZGUi8yb2UyYWFHZHA2WXdUV1dXNC9INXZ5WVpwU0w2STRUUXlPV3lKNTlEVW5TNUlNYTBhb0ZrcHUzM3JGdkJNb21SYkxNTWtiSzNZR1VNNkR3PT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.1.0/Kempt_2.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVc5ZzJrSjFMQ2pSTldJVXN4VWhmc3grS21OZSt0bjBSQkcvM2ZQeVIxb2RNMGVZbnRacXp5WC9sVW16N0NmaUtONlJnNDhCU0FWWUhSL00wR3lmRlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc5MTczCWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMS4wClo1UzliaURKSW9SaytSeThpRlJNWW8ySGlKTmR6dHUwVFV2alNkclFrOGt0eWN5NmVSeGdWbk5mWWJiK2J0TFF1YXR4ay8rSTFMcUtYdXlRZGNpVEFnPT0K"
     }
   }
 }
