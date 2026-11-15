@@ -1,0 +1,15 @@
+{
+  "version": "1.2.2",
+  "notes": "- After a long sleep, the capture screen opens on the screen you are looking at, including\n  over a full-screen app, instead of on another desktop.",
+  "pub_date": "2026-11-15T12:50:04.707Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.2/Snipkeep_1.2.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYyS3dpV1Y1dzY1aVpocHRkZldwNjZrRVQyRFJNdms4S0plc3c0TnYrVTA0eW9BZmpuS05EN1FXMjBoV1R4UW54dk1HWVg0VHdLc3B3bUliR1Ria3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2OTI3CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4yCkhFZ0tUbEhEWSthNVE0N2RRN0ttZ3ZYNnA4U0lIVzM3Vll5NVE1S1hMemM1eloxTEJwRXl4QlF5dkRSMmpRb3MxUnpaZjVxMXRPTHRaYmRIUG9kdkRnPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.2/Snipkeep_1.2.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVYyS3dpV1Y1dzY1aVpocHRkZldwNjZrRVQyRFJNdms4S0plc3c0TnYrVTA0eW9BZmpuS05EN1FXMjBoV1R4UW54dk1HWVg0VHdLc3B3bUliR1Ria3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ2OTI3CWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4yCkhFZ0tUbEhEWSthNVE0N2RRN0ttZ3ZYNnA4U0lIVzM3Vll5NVE1S1hMemM1eloxTEJwRXl4QlF5dkRSMmpRb3MxUnpaZjVxMXRPTHRaYmRIUG9kdkRnPT0K"
+    }
+  }
+}
