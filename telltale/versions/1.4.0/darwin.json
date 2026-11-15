@@ -1,0 +1,15 @@
+{
+  "version": "1.4.0",
+  "notes": "- Your last charge, on the Battery tab: how far the battery fell and in how long since you unplugged, how that compares with this Mac's usual pace, when it was last charged and to what level, what was lost while asleep, and which apps used the energy.\n- The glance says the same in one line: \"79% to 18%, mostly Google Chrome, 4 times faster than usual.\"\n- A new alert tells you when the battery drains at twice the usual pace or more, and names the app using the most.\n- Stop the app that keeps your Mac awake, right from the Sensors and Battery tabs.",
+  "pub_date": "2026-11-15T19:24:24.124Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.4.0/Telltale_1.4.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVNEbllaZGtvUmk5N2VIY2F5MVFrSFpZUVNaMHcreGw2RitCM3BZcEVvdjkvMXQ1L01pZHdleDZ4WENyNlBuK2o5NFNLL2lVR1gyazJ1RlZqVWxoOEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcwNTM4CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuNC4wCjhGTkNOVGxKUlBSUDMzQS9RSjVSYi8xejJ4L0d0MmlZekVlR21kRGVTalhkOWJxcmQ0M2lKalU0cWJRRVFBQnRrSWxuaHQvTjJRd25uSWplcW1IWEFBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.4.0/Telltale_1.4.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVNEbllaZGtvUmk5N2VIY2F5MVFrSFpZUVNaMHcreGw2RitCM3BZcEVvdjkvMXQ1L01pZHdleDZ4WENyNlBuK2o5NFNLL2lVR1gyazJ1RlZqVWxoOEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcwNTM4CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuNC4wCjhGTkNOVGxKUlBSUDMzQS9RSjVSYi8xejJ4L0d0MmlZekVlR21kRGVTalhkOWJxcmQ0M2lKalU0cWJRRVFBQnRrSWxuaHQvTjJRd25uSWplcW1IWEFBPT0K"
+    }
+  }
+}
