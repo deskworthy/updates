@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "- Home shows your files as big pictures on shelves: recent, by kind and by where they came from, such as WhatsApp, Mail or Safari.\n- Find a file by what you remember: a word inside a PDF or a picture, the app it came from, or roughly when.\n- Press Command-Shift-Space anywhere to find a file without opening the window.\n- Browse folders as cards with item counts, with a path bar, two panes side by side and an Inspector.\n- Clean up shows old, large and never-opened files, and duplicates, in one place. Everything goes to the Trash and can be put back.\n- Tidy Downloads in one click, or go through it one file at a time with a single key per file.\n- Cut, paste, new file, copy path, open in Terminal or your editor, and show hidden files, all from the right-click menu.\n- Code projects are left out of shelves and clean-up, so build folders do not bury your own files.\n- Never opened can leave out small files and code and text files, both remembered.\n- Your files never leave your Mac. Findigo reads them on this computer only.\n- A free 7-day trial. After it, everything you see stays visible and searchable.",
+  "pub_date": "2026-11-15T20:20:40.416Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/findigo-v0.1.0/Findigo_0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVkQWpBZFZXWSswcmorUGRNVzludHVkSjVKQk1pV09rSHBZdStaTEs2ei9VQllmMitjM0VKeXROL2R2V05qZHdnd0hFc1ZaN0dPaFJUbHdNTEZ5ZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzczOTUyCWZpbGU6RmluZGlnby5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKbTBVVFZ3ZHJJc2EreGhPWlRjL0tFb0VXSk9sSkNtVzNZaVluQVo2OVhGN2loVDR2SU4zWWM2VmI3Z0J0dlprQmlBdmhjQzYycWFFRmpPelRkMUJsQ1E9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/findigo-v0.1.0/Findigo_0.1.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVkQWpBZFZXWSswcmorUGRNVzludHVkSjVKQk1pV09rSHBZdStaTEs2ei9VQllmMitjM0VKeXROL2R2V05qZHdnd0hFc1ZaN0dPaFJUbHdNTEZ5ZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzczOTUyCWZpbGU6RmluZGlnby5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKbTBVVFZ3ZHJJc2EreGhPWlRjL0tFb0VXSk9sSkNtVzNZaVluQVo2OVhGN2loVDR2SU4zWWM2VmI3Z0J0dlprQmlBdmhjQzYycWFFRmpPelRkMUJsQ1E9PQo="
+    }
+  }
+}
