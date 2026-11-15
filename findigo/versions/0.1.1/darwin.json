@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "- Never opened's filters and the Images shelf's reading note sit evenly above the files.",
+  "pub_date": "2026-11-15T20:55:24.302Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/findigo-v0.1.1/Findigo_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWU1a21PcmxVTFo5bkxnUnlHVG1nOHh2ZzlSK3FtWHhqMXRxbmdoaTQrcnpqTlI1dGlpR2JRZFZiSEhUL0JKTWRLaDcwMy9GbmdhRkNUbjBPczdiYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc2MDM5CWZpbGU6RmluZGlnby5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKbXV4MXZNQlR5Szd1V3N1WDNwc0RNYkhXaVkrbmhBampjd0p3b2hOQk5FWEk5bFl0THVBMlZKZURKc1BkQ0p0YllSN0hHQ1Y2T25nYXhOdmlUQ2ZlQnc9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/findigo-v0.1.1/Findigo_0.1.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWU1a21PcmxVTFo5bkxnUnlHVG1nOHh2ZzlSK3FtWHhqMXRxbmdoaTQrcnpqTlI1dGlpR2JRZFZiSEhUL0JKTWRLaDcwMy9GbmdhRkNUbjBPczdiYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc2MDM5CWZpbGU6RmluZGlnby5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKbXV4MXZNQlR5Szd1V3N1WDNwc0RNYkhXaVkrbmhBampjd0p3b2hOQk5FWEk5bFl0THVBMlZKZURKc1BkQ0p0YllSN0hHQ1Y2T25nYXhOdmlUQ2ZlQnc9PQo="
+    }
+  }
+}
