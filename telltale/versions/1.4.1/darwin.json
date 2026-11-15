@@ -1,0 +1,15 @@
+{
+  "version": "1.4.1",
+  "notes": "- The menu bar glance opens over a full-screen app again, instead of on the desktop out of sight.",
+  "pub_date": "2026-11-15T21:42:38.649Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.4.1/Telltale_1.4.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVd5bGxjREFtQUVTU1Urd0l5VXpQMlpsOHdNelYvRFhRdnFOUnI1UFkvSTNzd0dhOG43bjM3ZjQ5L0RKQXo2S29kNHA3T01qREdtUGJGaWRGbElJZUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc4ODY2CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuNC4xCmFxMmNUd0FFREY1VjVZRGFUZ01NUUs2NG5CR0pMakt1SHExNTZmYm5BK2M0RkdQd05aNWpCaVBhdXBRQVV5U3p0Q283VjluN2lJSlJCb2l6ZkhmcUJRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.4.1/Telltale_1.4.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVd5bGxjREFtQUVTU1Urd0l5VXpQMlpsOHdNelYvRFhRdnFOUnI1UFkvSTNzd0dhOG43bjM3ZjQ5L0RKQXo2S29kNHA3T01qREdtUGJGaWRGbElJZUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzc4ODY2CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuNC4xCmFxMmNUd0FFREY1VjVZRGFUZ01NUUs2NG5CR0pMakt1SHExNTZmYm5BK2M0RkdQd05aNWpCaVBhdXBRQVV5U3p0Q283VjluN2lJSlJCb2l6ZkhmcUJRPT0K"
+    }
+  }
+}
