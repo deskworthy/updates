@@ -1,0 +1,15 @@
+{
+  "version": "2.2.0",
+  "notes": "- Projects is a new Cleanup category, one row per code project. Abandoned shows projects you have not changed for the time you pick (30 days to a year) with everything an install or a build puts back. Active offers only the build output of projects you work on, never their dependencies. Outdated lists Rust toolchains and Node versions nothing uses.\n- Old Claude Code plugin versions show in AI tools. Claude Code keeps every version it updated past; the one installed and any in use are never offered.\n- Cargo's unpacked crate sources join the package caches.\n- The final check groups project folders by what they cost to get back: Installs again, or Costs a build.\n- If a build is running in a project when you clean, that project's folders stay and the result says why.",
+  "pub_date": "2026-11-18T21:14:45.776Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.2.0/Kempt_2.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVlUHBxbGlxRXdxa2tZQkJ5VlZNdlZtK0lKdFF2VGR0YXpFUDlxMWZEYXZtWmVWcGloVVFVQVY2V1RMMFdJZmJPanBabEZpMTNaTDIwaDB0WFo3VGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM2NDE0CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMi4wCkhoVlZ4WjdQWDhBNDlkZTNIdnVCa0NNK0RnbVNrRU05Qi8xdk1UckVDYVNoVGRzSVFwcG01OFRCODdXV3Fid0xDTlkzSGhqMStBdXZ5RE1EWi9VOUNnPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/kempt-v2.2.0/Kempt_2.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVlUHBxbGlxRXdxa2tZQkJ5VlZNdlZtK0lKdFF2VGR0YXpFUDlxMWZEYXZtWmVWcGloVVFVQVY2V1RMMFdJZmJPanBabEZpMTNaTDIwaDB0WFo3VGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM2NDE0CWZpbGU6S2VtcHQuYXBwLnRhci5negl2ZXJzaW9uOjIuMi4wCkhoVlZ4WjdQWDhBNDlkZTNIdnVCa0NNK0RnbVNrRU05Qi8xdk1UckVDYVNoVGRzSVFwcG01OFRCODdXV3Fid0xDTlkzSGhqMStBdXZ5RE1EWi9VOUNnPT0K"
+    }
+  }
+}
