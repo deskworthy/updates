@@ -1,0 +1,15 @@
+{
+  "version": "2.2.0",
+  "notes": "- Everything DiskAtlas found has a Projects category, one row per code project: Abandoned projects by the age you pick, the build output of Active ones, and Outdated Rust toolchains and Node versions nothing uses.\n- Old Claude Code plugin versions show with the AI tools, and Cargo's unpacked crate sources with the package caches.\n- The final check groups project folders by what they cost to get back: Installs again, or Costs a build.\n- If a build is running in a project when you clean, that project's folders stay and the result says why.",
+  "pub_date": "2026-11-18T21:21:19.425Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.2.0/DiskAtlas_2.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVY4dmRtaXlhTFdhcFhENkZaZVpjOFhXdXVwaHVMaHpUVHZ2b2NHbEVNZDEyMjFhZ3FNS21uZXlxSmVWU1ZVRFNtaVVkZUx6QVBhMHBiVXQvcWhrNkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM2ODA2CWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjIuMAp3a05ZT1lZTk1MdHlGTllQZ09mU1phZ0lkY3dTTUNKbko2NENmeGZZL2Z6eFpXa3VpZ0xCdlNySHM4QVdMV25mQjRwNkY1TTdodWdoenRxWGFUOWpCUT09Cg=="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/diskatlas-v2.2.0/DiskAtlas_2.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVY4dmRtaXlhTFdhcFhENkZaZVpjOFhXdXVwaHVMaHpUVHZ2b2NHbEVNZDEyMjFhZ3FNS21uZXlxSmVWU1ZVRFNtaVVkZUx6QVBhMHBiVXQvcWhrNkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM2ODA2CWZpbGU6RGlza0F0bGFzLmFwcC50YXIuZ3oJdmVyc2lvbjoyLjIuMAp3a05ZT1lZTk1MdHlGTllQZ09mU1phZ0lkY3dTTUNKbko2NENmeGZZL2Z6eFpXa3VpZ0xCdlNySHM4QVdMV25mQjRwNkY1TTdodWdoenRxWGFUOWpCUT09Cg=="
+    }
+  }
+}
