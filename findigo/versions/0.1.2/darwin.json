@@ -1,0 +1,15 @@
+{
+  "version": "0.1.2",
+  "notes": "- The list shows Date modified beside Date added, and lists can be sorted by it.\n- Click a column header in the list to sort by it; click again to reverse the order.\n- Right-click empty space for Sort by.",
+  "pub_date": "2026-11-18T18:12:39.638Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/findigo-v0.1.2/Findigo_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFtN2QzMWxkSGExWXBGR3dNZVZhblgzTkFkMWszcVpYOGhBNDk0bzAwZWh0MDgxY1ljZUQ0STF5KzE4MTBlNG9XRkhXdElJeFJ6R0lHVldicFVaSGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDI1NDY5CWZpbGU6RmluZGlnby5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKSlhLVC95ZkNzTWlQTGxTSE1VUElJUTNodi9ienM3Z1ZGSTU4eGhHZm8wREdFYWd2STlWTjNwVzNzVDJuLzMzRzIwMCtzUWJOcDVtblViWDIvVE9iQmc9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/findigo-v0.1.2/Findigo_0.1.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFtN2QzMWxkSGExWXBGR3dNZVZhblgzTkFkMWszcVpYOGhBNDk0bzAwZWh0MDgxY1ljZUQ0STF5KzE4MTBlNG9XRkhXdElJeFJ6R0lHVldicFVaSGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDI1NDY5CWZpbGU6RmluZGlnby5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKSlhLVC95ZkNzTWlQTGxTSE1VUElJUTNodi9ienM3Z1ZGSTU4eGhHZm8wREdFYWd2STlWTjNwVzNzVDJuLzMzRzIwMCtzUWJOcDVtblViWDIvVE9iQmc9PQo="
+    }
+  }
+}
