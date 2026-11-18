@@ -1,0 +1,15 @@
+{
+  "version": "1.2.3",
+  "notes": "- If another app, such as Lightshot, uses the same keys, Settings, Shortcuts can now take them\n  for Snipkeep (\"Take these keys from other apps\", off unless you turn it on; it needs\n  Accessibility).\n- Snipkeep asks for Screen Recording at the end of the first run, and Open System Settings now\n  lists Snipkeep there, ready to switch on.",
+  "pub_date": "2026-11-18T18:06:14.561Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.3/Snipkeep_1.2.3_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFRWHd1azRIeHlNRWVjYmYybHRlTWR0VlVZeW9OcjhSaFkwQmhHWTY5aDZpWTFPNWxNNFNuai85c1p4c0hBc3BvK3puOUhobGVBRkZGbmkySk5lbXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDI1MTEyCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4zCllvVnQzdVQ1aFZpNVlaRjBNdktaSHpmbHJaMmh3c1BDZkVETEtma3ByaDZYaDkwR2tSak1uYkNaWkRiY0I4T0RBaG92S24zbDcvbm9hay8wUnFHNER3PT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/snipkeep-v1.2.3/Snipkeep_1.2.3_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWFRWHd1azRIeHlNRWVjYmYybHRlTWR0VlVZeW9OcjhSaFkwQmhHWTY5aDZpWTFPNWxNNFNuai85c1p4c0hBc3BvK3puOUhobGVBRkZGbmkySk5lbXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDI1MTEyCWZpbGU6U25pcGtlZXAuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4zCllvVnQzdVQ1aFZpNVlaRjBNdktaSHpmbHJaMmh3c1BDZkVETEtma3ByaDZYaDkwR2tSak1uYkNaWkRiY0I4T0RBaG92S24zbDcvbm9hay8wUnFHNER3PT0K"
+    }
+  }
+}
