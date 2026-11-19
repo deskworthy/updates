@@ -1,0 +1,15 @@
+{
+  "version": "1.4.2",
+  "notes": "- Telltale now asks macOS for permission to show notifications, so alerts are no longer dropped silently on a Mac that never allowed them.\n- If notifications are blocked in System Settings, Alerts and Settings say so and open the right place with one click.",
+  "pub_date": "2026-11-19T19:39:06.778Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.4.2/Telltale_1.4.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVhoWnBYSDNUU3pFSHA4TGxoNGRYVDF6N0toNWlxSkNqVDF0M1BSbGUrTldtbVNud2Y1ZmVwaEZsUWIvY3NzNkVUZVkzUVkzN3VjV2dxR3ZLeVdWdlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE3MDc0CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuNC4yClVsYjE5U21CYkgzOHFUeGtOejE1ei9hNUNTOUxsTSs0ZzZ0bmJ1TGNyVUZCbzd4Ujk5WEdlazJ0a0RiS2lHWlFTMXkyRlZ5N3pJYXdKMWZMejZpaUNRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/telltale-v1.4.2/Telltale_1.4.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVhoWnBYSDNUU3pFSHA4TGxoNGRYVDF6N0toNWlxSkNqVDF0M1BSbGUrTldtbVNud2Y1ZmVwaEZsUWIvY3NzNkVUZVkzUVkzN3VjV2dxR3ZLeVdWdlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE3MDc0CWZpbGU6VGVsbHRhbGUuYXBwLnRhci5negl2ZXJzaW9uOjEuNC4yClVsYjE5U21CYkgzOHFUeGtOejE1ei9hNUNTOUxsTSs0ZzZ0bmJ1TGNyVUZCbzd4Ujk5WEdlazJ0a0RiS2lHWlFTMXkyRlZ5N3pJYXdKMWZMejZpaUNRPT0K"
+    }
+  }
+}
