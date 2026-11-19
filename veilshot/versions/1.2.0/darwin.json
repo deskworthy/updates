@@ -1,0 +1,15 @@
+{
+  "version": "1.2.0",
+  "notes": "- Finds far more than email addresses: API keys and passwords, card numbers, IBANs, IP\n  addresses, phone numbers, links that carry a token, faces, and on a Mac QR codes and barcodes.\n- Suggestions start as soon as an image opens. In Settings, Redaction, pick the kinds to hide\n  every time without asking; faces and possible card numbers always wait for your review.\n- Your own words: list names, companies or project codes in Settings, and VeilShot finds them\n  too. \"Hide everywhere\" finds every other place the same text appears.\n- Three new ways to hide: Pixelate, Fill to match (the area takes the colour around it) and\n  Stand-in text (a neutral name@example.com in place of the real one). All of them replace\n  the pixels for good.\n- Copy and Export first tell you when suggestions are still unreviewed, with Review and Export\n  anyway.\n- VeilShot follows your system language, in 12 languages.",
+  "pub_date": "2026-11-19T14:03:38.896Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/veilshot-v1.2.0/VeilShot_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZ2b1hkOGtKOGs0SUw5TmIyN3l4emdwZ0pSdndBeVVtRFBhL2pybWNxa3NVRmIreWNHVzBURENXQytCeTRyN1phMTdsUk1aakhsVEVMaHhmZFFBWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk2OTM1CWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCkY2N1I4bFhaV0hRMk5WK1NubXNtM1BrZjNaQjg3WFA4S2JpOWFNTFFJV0VhaEcvL3hQOWd3RnE3ZEp6bXUzZ3hvS09QRnAxbnkxVGxOdVFLUndpWUJnPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/veilshot-v1.2.0/VeilShot_1.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWZ2b1hkOGtKOGs0SUw5TmIyN3l4emdwZ0pSdndBeVVtRFBhL2pybWNxa3NVRmIreWNHVzBURENXQytCeTRyN1phMTdsUk1aakhsVEVMaHhmZFFBWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk2OTM1CWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCkY2N1I4bFhaV0hRMk5WK1NubXNtM1BrZjNaQjg3WFA4S2JpOWFNTFFJV0VhaEcvL3hQOWd3RnE3ZEp6bXUzZ3hvS09QRnAxbnkxVGxOdVFLUndpWUJnPT0K"
+    }
+  }
+}
