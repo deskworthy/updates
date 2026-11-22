@@ -1,0 +1,15 @@
+{
+  "version": "1.3.0",
+  "notes": "- Copied a screenshot? With the editor empty, VeilShot offers \"Open the copied image\". It only\n  checks that an image is there; the image itself is read when you click or paste.\n- Finds API keys the way people write them, such as Stripe-style keys and \"API key:\" labels,\n  and hides only the secret, not the label beside it.\n- Hiding an email now covers just the address, not the whole line around it.\n- What you see is what leaves: the canvas shows the real effect (solid, blur, pixelate and the\n  rest) exactly as the exported copy will have it.\n- Hide uses the effect you picked and selects the new areas, so you can adjust them straight\n  away.\n- The detect button now says \"Find sensitive content\".\n- The review dialog fits the smallest window, and the panel behind it stays still.",
+  "pub_date": "2026-11-22T20:43:53.421Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/veilshot-v1.3.0/VeilShot_1.3.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVNeU1KcUNtMjMzUXN6VFdqYTltN0Rld0VQTVE0WDcvdW5wNWFlYW1mZWl1TVQ3LzM3eE9kL09lVGw5QVF2UnVFTUVLUCtpSThXTFlhZmhHQUxyd3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzgwMTU0CWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMy4wCjJvLzBNbXNOc250RDNlYWo2YWJZU0ZuRjhyemFsN1d0VmkvcXhVUnRWRXRBRmpTbjBkMVNlVTZ5cWxEblFEWU54MnJuVk45TnJobU93LzMzOTRYcUF3PT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/veilshot-v1.3.0/VeilShot_1.3.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVVNeU1KcUNtMjMzUXN6VFdqYTltN0Rld0VQTVE0WDcvdW5wNWFlYW1mZWl1TVQ3LzM3eE9kL09lVGw5QVF2UnVFTUVLUCtpSThXTFlhZmhHQUxyd3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzgwMTU0CWZpbGU6VmVpbFNob3QuYXBwLnRhci5negl2ZXJzaW9uOjEuMy4wCjJvLzBNbXNOc250RDNlYWo2YWJZU0ZuRjhyemFsN1d0VmkvcXhVUnRWRXRBRmpTbjBkMVNlVTZ5cWxEblFEWU54MnJuVk45TnJobU93LzMzOTRYcUF3PT0K"
+    }
+  }
+}
