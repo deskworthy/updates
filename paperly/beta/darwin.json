@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "- Pick a job on Home, or drop a PDF on the window: Paperly asks for the file and opens that tool.\n- Black out text: the words under your boxes are removed from the file, not just covered, and\n  Paperly shows what it removed before you save.\n- Sign, type text, add a date or a tick, or fill the form fields a PDF already has.\n- Make a PDF smaller, and see the new size before you keep it.\n- Add a password, typed twice so a typo cannot lock you out. The copy opens in Preview and any\n  PDF reader.\n- Rearrange, rotate and delete pages, combine PDFs, split one apart, or copy pages into a new\n  file. Cmd Z undoes until you save.\n- Clean up a whole folder at once: shrink copies, strip their metadata or merge them.\n- Every save is a new copy; your original is never touched. Show it in Finder or open it right\n  away.\n- Nothing leaves your Mac.",
-  "pub_date": "2026-11-18T19:08:41.979Z",
+  "version": "0.2.0",
+  "notes": "- Compare two versions of a PDF: choose the original and the revised copy, and Paperly shows the\n  pages side by side with the changed wording marked, struck through in red where it was removed\n  and green where it was added. Added and removed pages are listed too, and you can step from one\n  change to the next. Both files stay unchanged.\n- Blacking out text in a PDF made on a Mac (Pages, Preview, Print to PDF) or printed from Chrome\n  now removes only the words under your box. The rest of the page stays text you can select and\n  search, where before the whole page became a picture.",
+  "pub_date": "2026-11-25T21:18:56.245Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.1.0/Paperly_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVN2R2FTblFEQ0RuRHVzZm16MUxmTG12NGxPT3c1Z1NicVNlRmo0ei9TUWxtaXZaWGdEVUdyWXp5Ulc4TVM0ank4ZWszRHZuU3FiUHM5c2tFcTE5aHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDI4ODE5CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKN1ZNdlVvend0NEo2WTgyVmRGMEcxTWtKVWQ3UUNVdzgwbzg2bFFJblRCaUtpMWhZNUJQaEdBV2lwcDhLVmQ1Y2JtYUdzTWpZY0VtMlk0aXRsVk5xRHc9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.0/Paperly_0.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFBSWVVV2lpS2hhV3dOc1BKd1RiZjlSaUs5VmVNRWlPWVMva0x1R2N1dlRsTjNwOTdacXRYOW85dFNZTVk4a2pDYlJSYWU2Z0Z1YTZXQU8yaEVBVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxNDU0CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjAKVjliTDJFZTVMNWhBZkE4eUhORDZIWmhtUWZTNFpMdHlxa0Vmekx0M1ZtUlM1aHV1VUpRUGNxNW9qc1JDNjZ0SGZzbk5MN3BCS0lvQlB6ZFA0OFk3REE9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.1.0/Paperly_0.1.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVN2R2FTblFEQ0RuRHVzZm16MUxmTG12NGxPT3c1Z1NicVNlRmo0ei9TUWxtaXZaWGdEVUdyWXp5Ulc4TVM0ank4ZWszRHZuU3FiUHM5c2tFcTE5aHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDI4ODE5CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4xLjAKN1ZNdlVvend0NEo2WTgyVmRGMEcxTWtKVWQ3UUNVdzgwbzg2bFFJblRCaUtpMWhZNUJQaEdBV2lwcDhLVmQ1Y2JtYUdzTWpZY0VtMlk0aXRsVk5xRHc9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.0/Paperly_0.2.0_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFBSWVVV2lpS2hhV3dOc1BKd1RiZjlSaUs5VmVNRWlPWVMva0x1R2N1dlRsTjNwOTdacXRYOW85dFNZTVk4a2pDYlJSYWU2Z0Z1YTZXQU8yaEVBVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxNDU0CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjAKVjliTDJFZTVMNWhBZkE4eUhORDZIWmhtUWZTNFpMdHlxa0Vmekx0M1ZtUlM1aHV1VUpRUGNxNW9qc1JDNjZ0SGZzbk5MN3BCS0lvQlB6ZFA0OFk3REE9PQo="
     }
   }
 }
