@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
-  "notes": "- Compare two versions of a PDF: choose the original and the revised copy, and Paperly shows the\n  pages side by side with the changed wording marked, struck through in red where it was removed\n  and green where it was added. Added and removed pages are listed too, and you can step from one\n  change to the next. Both files stay unchanged.\n- Blacking out text in a PDF made on a Mac (Pages, Preview, Print to PDF) or printed from Chrome\n  now removes only the words under your box. The rest of the page stays text you can select and\n  search, where before the whole page became a picture.",
-  "pub_date": "2026-11-25T21:18:56.245Z",
+  "version": "0.2.1",
+  "notes": "- Compare lists every change on a page, not only the first one, so a page with several edits\n  shows each of them (up to three, then how many more).\n- Added and removed pages now say which page they are, for example \"Page 4 added\", and whether\n  the page is only in the original or only in the revised PDF.",
+  "pub_date": "2026-11-26T06:14:27.327Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.0/Paperly_0.2.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFBSWVVV2lpS2hhV3dOc1BKd1RiZjlSaUs5VmVNRWlPWVMva0x1R2N1dlRsTjNwOTdacXRYOW85dFNZTVk4a2pDYlJSYWU2Z0Z1YTZXQU8yaEVBVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxNDU0CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjAKVjliTDJFZTVMNWhBZkE4eUhORDZIWmhtUWZTNFpMdHlxa0Vmekx0M1ZtUlM1aHV1VUpRUGNxNW9qc1JDNjZ0SGZzbk5MN3BCS0lvQlB6ZFA0OFk3REE9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.1/Paperly_0.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVTWjU2by9zK0RTM3pVR0xFTnI3blplQUZnU0hBbFlQTUxkYklRZFdVd2htMzhvdXAyV1Y4UUJWRDRacTlFU0Q2d3lIc3p5Y1FBSXRPcVFxLzIzT1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjczNjE3CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEKYzdyclRBNnZMWS9NakJaZ1pyMlRnWlpEOThuaUM5dzNXM21EWTVTdGJwdzV6RlFvcTI5blBuNHY2ZkRncVJ6SDdZamhIS1pybEViSkxwRmdscklZQ0E9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.0/Paperly_0.2.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVFBSWVVV2lpS2hhV3dOc1BKd1RiZjlSaUs5VmVNRWlPWVMva0x1R2N1dlRsTjNwOTdacXRYOW85dFNZTVk4a2pDYlJSYWU2Z0Z1YTZXQU8yaEVBVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjQxNDU0CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjAKVjliTDJFZTVMNWhBZkE4eUhORDZIWmhtUWZTNFpMdHlxa0Vmekx0M1ZtUlM1aHV1VUpRUGNxNW9qc1JDNjZ0SGZzbk5MN3BCS0lvQlB6ZFA0OFk3REE9PQo="
+      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.1/Paperly_0.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVTWjU2by9zK0RTM3pVR0xFTnI3blplQUZnU0hBbFlQTUxkYklRZFdVd2htMzhvdXAyV1Y4UUJWRDRacTlFU0Q2d3lIc3p5Y1FBSXRPcVFxLzIzT1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjczNjE3CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEKYzdyclRBNnZMWS9NakJaZ1pyMlRnWlpEOThuaUM5dzNXM21EWTVTdGJwdzV6RlFvcTI5blBuNHY2ZkRncVJ6SDdZamhIS1pybEViSkxwRmdscklZQ0E9PQo="
     }
   }
 }

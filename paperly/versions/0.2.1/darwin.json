@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "notes": "- Compare lists every change on a page, not only the first one, so a page with several edits\n  shows each of them (up to three, then how many more).\n- Added and removed pages now say which page they are, for example \"Page 4 added\", and whether\n  the page is only in the original or only in the revised PDF.",
+  "pub_date": "2026-11-26T06:14:27.327Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.1/Paperly_0.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVTWjU2by9zK0RTM3pVR0xFTnI3blplQUZnU0hBbFlQTUxkYklRZFdVd2htMzhvdXAyV1Y4UUJWRDRacTlFU0Q2d3lIc3p5Y1FBSXRPcVFxLzIzT1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjczNjE3CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEKYzdyclRBNnZMWS9NakJaZ1pyMlRnWlpEOThuaUM5dzNXM21EWTVTdGJwdzV6RlFvcTI5blBuNHY2ZkRncVJ6SDdZamhIS1pybEViSkxwRmdscklZQ0E9PQo="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/paperly-v0.2.1/Paperly_0.2.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aWVTWjU2by9zK0RTM3pVR0xFTnI3blplQUZnU0hBbFlQTUxkYklRZFdVd2htMzhvdXAyV1Y4UUJWRDRacTlFU0Q2d3lIc3p5Y1FBSXRPcVFxLzIzT1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjczNjE3CWZpbGU6UGFwZXJseS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEKYzdyclRBNnZMWS9NakJaZ1pyMlRnWlpEOThuaUM5dzNXM21EWTVTdGJwdzV6RlFvcTI5blBuNHY2ZkRncVJ6SDdZamhIS1pybEViSkxwRmdscklZQ0E9PQo="
+    }
+  }
+}
