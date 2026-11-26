@@ -1,0 +1,15 @@
+{
+  "version": "0.2.2",
+  "notes": "- A vault you just created no longer says it has not been backed up in 30 days. Its 30 days start the day you create it.\n- A vault moved with Use on another Mac keeps the date of its last backup.",
+  "pub_date": "2026-11-26T08:10:20.815Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.2.2/Lockwell_0.2.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZocytJVSt4ZUhqdWVuRld3ZHM4aXI5TGgycEtRekUyNk5IRXRzNmNjcFJVdzIvd0w4U1c0S3pGVHN1YmM0TXcrUXhOQW5NMWh4YmNCem1UcGM1Y1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgwNTY4CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCnpaSmxvQzVLUXlZWElpSlptYXNIMlQ0cVNmR01Xa2o5TTVBRHgvc3NZQWNRVTJFR2xvKzhqVjdPSlR0ZUVnM3FUVDV4Y1lqNmRGcTNidzVvS3JYOURRPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.2.2/Lockwell_0.2.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZocytJVSt4ZUhqdWVuRld3ZHM4aXI5TGgycEtRekUyNk5IRXRzNmNjcFJVdzIvd0w4U1c0S3pGVHN1YmM0TXcrUXhOQW5NMWh4YmNCem1UcGM1Y1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgwNTY4CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCnpaSmxvQzVLUXlZWElpSlptYXNIMlQ0cVNmR01Xa2o5TTVBRHgvc3NZQWNRVTJFR2xvKzhqVjdPSlR0ZUVnM3FUVDV4Y1lqNmRGcTNidzVvS3JYOURRPT0K"
+    }
+  }
+}

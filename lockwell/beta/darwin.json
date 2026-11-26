@@ -1,15 +1,15 @@
 {
-  "version": "0.2.1",
-  "notes": "- Import has its own place in the sidebar, and File, Import… opens it. It shows the three ways in (exports from another password app, your notes, a CSV file), each with what you need. An empty vault offers it too.\n- Importing from notes now says how: copy your notes, then press Command V in the box. Clear empties it for the next paste.\n- Settings, Backups shows the places found on this Mac (iCloud Drive, Google Drive, Dropbox, external drives) as tiles with one line on what each does, the last copy of each vault, and a warning when the chosen drive is not plugged in. Export as CSV moved under \"Leaving Lockwell\", since it is not a backup.\n- Use on another Mac: right-click a vault, choose File, Use on Another Mac…, or open Settings, Backups. Lockwell moves the vault into a folder iCloud Drive or another cloud app syncs, then tells you what to do on the second Mac.\n- A cloud app signed in to two accounts shows a tile for each, named by its account.",
-  "pub_date": "2026-11-26T07:43:43.925Z",
+  "version": "0.2.2",
+  "notes": "- A vault you just created no longer says it has not been backed up in 30 days. Its 30 days start the day you create it.\n- A vault moved with Use on another Mac keeps the date of its last backup.",
+  "pub_date": "2026-11-26T08:10:20.815Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.2.1/Lockwell_0.2.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZFdFRmTlFJcy9iU3hrNGxSV2lyNjhjV1JTR2psdUhHREQ2dnpmcnozN0tWV0NxUTRPcUxBVTRLcTBORWI2Ky9Sa0JHY0dMc21jZytOWmE1dnZhTVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njc4OTc2CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4xCkMzUUszWFIvclZKYWI5M2hsMmJ6c3E4NTV3TjMwU21id2JCVGl1T203Y1BnL3ZweHJycldsMEdUbFM5Nnh6VGR3MEpXT2kyb2syTUhmTHdRMm1IRERnPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.2.2/Lockwell_0.2.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZocytJVSt4ZUhqdWVuRld3ZHM4aXI5TGgycEtRekUyNk5IRXRzNmNjcFJVdzIvd0w4U1c0S3pGVHN1YmM0TXcrUXhOQW5NMWh4YmNCem1UcGM1Y1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgwNTY4CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCnpaSmxvQzVLUXlZWElpSlptYXNIMlQ0cVNmR01Xa2o5TTVBRHgvc3NZQWNRVTJFR2xvKzhqVjdPSlR0ZUVnM3FUVDV4Y1lqNmRGcTNidzVvS3JYOURRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.2.1/Lockwell_0.2.1_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZFdFRmTlFJcy9iU3hrNGxSV2lyNjhjV1JTR2psdUhHREQ2dnpmcnozN0tWV0NxUTRPcUxBVTRLcTBORWI2Ky9Sa0JHY0dMc21jZytOWmE1dnZhTVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njc4OTc2CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4xCkMzUUszWFIvclZKYWI5M2hsMmJ6c3E4NTV3TjMwU21id2JCVGl1T203Y1BnL3ZweHJycldsMEdUbFM5Nnh6VGR3MEpXT2kyb2syTUhmTHdRMm1IRERnPT0K"
+      "url": "https://github.com/deskworthy/updates/releases/download/lockwell-v0.2.2/Lockwell_0.2.2_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSHBtYmdObld4aVZocytJVSt4ZUhqdWVuRld3ZHM4aXI5TGgycEtRekUyNk5IRXRzNmNjcFJVdzIvd0w4U1c0S3pGVHN1YmM0TXcrUXhOQW5NMWh4YmNCem1UcGM1Y1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgwNTY4CWZpbGU6TG9ja3dlbGwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4yCnpaSmxvQzVLUXlZWElpSlptYXNIMlQ0cVNmR01Xa2o5TTVBRHgvc3NZQWNRVTJFR2xvKzhqVjdPSlR0ZUVnM3FUVDV4Y1lqNmRGcTNidzVvS3JYOURRPT0K"
     }
   }
 }
